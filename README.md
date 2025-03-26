@@ -1,119 +1,84 @@
-# 🚀 Project Name
+# Flask Service for Customer Suggestions
 
-## 📌 Table of Contents
-- [Introduction](#introduction)
-- [Demo](#demo)
-- [Inspiration](#inspiration)
-- [What It Does](#what-it-does)
-- [How We Built It](#how-we-built-it)
-- [Challenges We Faced](#challenges-we-faced)
-- [How to Run](#how-to-run)
-- [Running the Application]
-- [Features]
-- [File Descriptions]
-- [Notes]
-- [Tech Stack](#tech-stack)
-- [Team](#team)
+## Overview
+This is a Flask-based API service that retrieves customer suggestions from a MongoDB database. The service provides an endpoint to fetch suggestions for a specific customer based on their `Customer_Id`.
 
----
+## Features
+- Connects to a MongoDB database
+- Retrieves customer suggestions based on `Customer_Id`
+- Returns data in JSON format
 
-## 🎯 Introduction
-A brief overview of your project and its purpose. Mention which problem statement are your attempting to solve. Keep it concise and engaging.
+## Prerequisites
+Before running the application, ensure you have the following installed:
 
-## 🎥 Demo
-🔗 [Live Demo](#) (if applicable)  
-📹 [Video Demo](#) (if applicable)  
-🖼️ Screenshots:
+- Python 3.x
+- Flask
+- pymongo
 
-![Screenshot 1](link-to-image)
+or run below requirements file
+pip install -r requirements.txt
 
-## 💡 Inspiration
-What inspired you to create this project? Describe the problem you're solving.
-
-## ⚙️ What It Does
-Explain the key features and functionalities of your project.
-
-## 🛠️ How We Built It
-Briefly outline the technologies, frameworks, and tools used in development.
-
-## 🚧 Challenges We Faced
-Describe the major technical or non-technical challenges your team encountered.
-
-## 🏃 How to Run
-1. Clone the repository  
+## Installation
+1. Clone the repository or copy the `service.py` file to your working directory.
+2. Install the required dependencies using:
    ```sh
-   git clone https://github.com/ewfx/aidhp-triaging-titans.git
-   ```
-2. Install dependencies  
-   ```sh
-   npm install  # or pip install -r requirements.txt (for Python)
-   ```
-3. Run the project  
-   ```sh
-   npm start  # or python app.py
+   pip install flask pymongo
    ```
 
-## 🏃 Running the Application
------------------------
-1. Start the Flask API:
-   - Run `flask_intent.py` to start the backend server:
-     ```bash
-     python flask_intent.py
-     ```
-   - The server will run on `http://127.0.0.1:5000`.
- 
-2. Start the Chatbot Interface:
-   - Run [chatbot_flask_intent.py](http://_vscodecontentref_/1) to launch the Tkinter-based chatbot interface:
-     ```bash
-     python chatbot_flask_intent.py
-     ```
-## 🏃 Features
---------
-1. **Flask API (`flask_intent.py`)**:
-   - Processes user input and matches it to predefined intents in `products_intent.json`.
-   - Returns appropriate responses based on the matched intent.
- 
-2. **Tkinter Chatbot (`chatbot_flask_intent.py`)**:
-   - Provides a graphical interface for user interaction.
-   - Displays user and bot messages with icons.
-   - Supports scrolling and dynamic responses.
- 
-3. **Intent Matching**:
-   - Uses NLTK for tokenizing user input and matching it to predefined patterns in `products_intent.json`.
- 
-4. **Image Recommendations**:
-   - Displays relevant images (e.g., credit card or savings account options) based on user input.
+## Configuration
+Update the MongoDB connection URI in `service.py`:
+```python
+client = MongoClient("mongodb+srv://<username>:<password>@<cluster>.mongodb.net/")
+```
+Replace `<username>`, `<password>`, and `<cluster>` with your MongoDB credentials.
 
-## 🏃 File Descriptions
------------------
-1. `flask_intent.py`:
-   - Backend API for processing user input and returning responses.
-   - Uses `products_intent.json` for intent matching.
- 
-2. [chatbot_flask_intent.py](http://_vscodecontentref_/2):
-   - Frontend chatbot application built with Tkinter.
-   - Interacts with the Flask API to display responses.
- 
-3. `products_intent.json`:
-   - JSON file containing predefined intents, patterns, responses, and contexts.
- 
-4. [user_icon.png](http://_vscodecontentref_/3) and [bot_icon.png](http://_vscodecontentref_/4):
-   - Icons used in the chatbot interface for user and bot messages.
- 
-5. `credit_card.png` and `savings.png` (optional):
-   - Images displayed in the chatbot interface for specific recommendations.
- 
-## 🏃 Notes
------
-- Ensure that the Flask server is running before starting the chatbot interface.
-- Adjust file paths for images if they are located in a different directory.
-"""
+## Mongo DB collections are :- 
+ transaction_history_trained_data
+ customer_sentimentscore_trained_data
+ customer_preferences_trained_data
+ customer_financial_trained_data
 
-## 🏗️ Tech Stack
-- 🔹 Frontend: React 
-- 🔹 Backend: Node.js / Flask / Gen AI
-- 🔹 Database: Mongo DB
-- 🔹 Other: NLTK / chatbot
+## Running the Service
+To start the Flask application, run:
+```sh
+python service.py
+```
+The service will start in debug mode and be accessible at `http://127.0.0.1:5000/`.
 
-## 👥 Team
-- **TriagingTitan** - [GitHub](#) | [LinkedIn](#)
+## API Endpoint
+### Get Customer Suggestion
+**Endpoint:**
+```
+GET /customer/<customer_id>
+```
+
+**Description:** Retrieves the suggestion for a given `customer_id`.
+
+**Response:**
+- If a suggestion is found:
+  ```json
+  {
+    "suggestion": "<suggested_value>"
+  }
+  ```
+- If no suggestion is found:
+  ```json
+  {
+    "error": "Suggestion not found"
+  }
+  ```
+
+## Notes
+- Ensure that your MongoDB collection contains documents with a `Customer_Id` field.
+- The `_id` field is not included in the response.
+- Modify database and collection names as needed.
+
+## License
+This project is for demonstration purposes. Modify as needed.
+
+## Optional to run these scripts
+Note:- This step is optional because we ran these scripts, internally scripts has integrated GPT-3.5-turbo model, model has trained the dataset and persisted in mongo db collection.
+python generate_transaction_suggestions.py
+python generate_suggestions_by_sentimentScore.py
+python customer_financial_suggestions.py
+python customer_preferences.py

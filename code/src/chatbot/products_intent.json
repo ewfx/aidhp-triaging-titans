@@ -1,0 +1,52 @@
+{
+    "intents": [
+        {
+            "tag": "greeting",
+            "patterns": ["Hi", "How are you", "Is anyone there?", "Hey", "Hola", "Hello", "Good day"],
+            "responses": ["Hello, thanks for asking", "Good to see you again", "Hi there, how can I help?"],
+            "context": [""]
+        },
+        {
+            "tag": "creditcard",
+            "patterns": ["credit card", "credit card options", "credit card offers", "credit card details"],
+            "responses": ["Here are some credit card options tailored to different needs:", "1. Cashback credit card", "2. Travel rewards credit card", "3. Secured credit card"],
+            "context": [""]
+        },
+        {
+            "tag": "travelcard",
+            "patterns": ["travel credit cards", "travel card details"],
+            "responses": ["Here are some travel credit card options:", "1. Chase Sapphire Preferred Card", "2. Wells Fargo Autograph Journey Card", "3. Bank of America Travel Rewards Credit Card"],
+            "context": [""]
+        },
+        {
+            "tag": "wellsfargocard",
+            "patterns": ["Wells Fargo Autograph Journey Card", "Wells Fargo Propel American Express Card", "Wells Fargo Visa Signature Card"],
+            "responses": ["Attractive benefits are: $50 annual statement credit for airline purchases.", "Earn 3x points on travel, dining, and popular streaming services.", "Earn 5x points on gas, grocery, and drugstore purchases."],
+            "context": [""]
+        },
+        {
+            "tag": "goodbye",
+            "patterns": ["Bye", "See you later", "Goodbye", "Nice chatting to you, bye", "Till next time"],
+            "responses": ["See you!", "Have a nice day", "Bye! Come back again soon."],
+            "context": [""]
+        },
+        {
+            "tag": "thanks",
+            "patterns": ["Thanks", "Thank you", "That's helpful", "Awesome, thanks", "Thanks for helping me"],
+            "responses": ["Happy to help!", "Any time!", "My pleasure"],
+            "context": [""]
+        },
+        {
+            "tag": "noanswer",
+            "patterns": [],
+            "responses": ["Sorry, can't understand you", "Please give me more info", "Not sure I understand"],
+            "context": [""]
+        },
+        {
+            "tag": "blood_pressure",
+            "patterns": ["Open blood pressure module", "Task related to blood pressure", "Blood pressure data entry", "I want to log blood pressure results", "Blood pressure data management"],
+            "responses": ["Navigating to Blood Pressure module"],
+            "context": [""]
+        }
+    ]
+}

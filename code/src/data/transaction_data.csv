@@ -1,0 +1,1012 @@
+Customer_Id,Transaction company,Category,Amount(In Dollars),Purchase_Date,Payment_Mode,Product_Id
+C100001,Gucci store,Luxury Shopping,3000,01-05-2025,Credit Card,1001
+ORG_US_004,Wallmart,Electronics,500000,02-10-2025,Credit Card,1001
+C100002,Amazon,Grocery,4500,02-10-2025,Debit card,1005
+ORG_US_007,Apple,Gadgets,2500000,2/29/2025,Cash,1006
+C100003,Stock investment,Investments,25000,01-02-2025,Dmat Account transaction,1009
+C100004,American Airlines,Travel,5000,2/17/2025,Debit card,1005
+ORG_US_002,Marketing Promotions,Branding And Social Media Adds,150000,3/30/2025,Debit card,1005
+C100005,Investment Contribution,Investments,50000,12-10-2024,Dmat Account transaction,1009
+C100001,Tesla,Gadgets,5000,3/30/2025,Auto Loan Account transaction,1008
+C100006,Trump dream housing,Investments,4500,3/30/2025,Home Mortgage Account transaction,1007
+C1000010,Apple,Gadgets,401745,02-20-2024,Dmat Account transaction,1009
+C1000011,Gucci store,Luxury Shopping,2669034,02-07-2024,Home Mortgage Account transaction,1007
+C1000012,Tesla,Gadgets,3425540,06-17-2025,Debit card,1005
+C1000013,Trump dream housing,Investments,2486268,03-20-2024,Auto Loan Account transaction,1008
+C1000014,Gucci store,Luxury Shopping,2437697,06-23-2025,Cash,1006
+C1000015,Stock investment,Investments,1273715,07-19-2025,Dmat Account transaction,1009
+C1000016,Tesla,Gadgets,2981161,08-29-2025,Auto Loan Account transaction,1008
+C1000017,Trump dream housing,Investments,29491,01-29-2025,Dmat Account transaction,1009
+C1000018,Gucci store,Luxury Shopping,4603904,11-21-2025,Credit Card,1001
+C1000019,Apple,Gadgets,4845877,08-24-2024,Cash,1006
+C1000020,Wallmart,Electronics,3527879,03-21-2025,Cash,1006
+C1000021,Marketing Promotions,Branding And Social Media Adds,2352154,03-18-2025,Dmat Account transaction,1009
+C1000022,Tesla,Gadgets,1925277,09-22-2025,Credit Card,1001
+C1000023,Gucci store,Luxury Shopping,1887700,07-18-2024,Debit card,1005
+C1000024,Amazon,Grocery,252496,09-19-2024,Dmat Account transaction,1009
+C1000025,American Airlines,Travel,3314973,02-22-2024,Cash,1006
+C1000026,Tesla,Gadgets,934180,02-17-2025,Home Mortgage Account transaction,1008
+C1000027,Tesla,Gadgets,2647958,05-08-2024,Cash,1006
+C1000028,Tesla,Gadgets,2384481,10-09-2025,Cash,1006
+C1000029,Tesla,Gadgets,3178916,12-11-2024,Cash,1006
+C1000030,Wallmart,Electronics,2641345,04-03-2025,Credit Card,1001
+C1000031,Gucci store,Luxury Shopping,1946224,08-10-2024,Cash,1006
+C1000032,Investment Contribution,Investments,2955188,04-11-2025,Home Mortgage Account transaction,1007
+C1000033,Investment Contribution,Investments,3470422,02-27-2025,Auto Loan Account transaction,1008
+C1000034,Amazon,Grocery,2014845,04-05-2025,Dmat Account transaction,1009
+C1000035,Investment Contribution,Investments,569579,07-08-2025,Cash,1006
+C1000036,Stock investment,Investments,4192476,03-14-2024,Auto Loan Account transaction,1008
+C1000037,Trump dream housing,Investments,155206,05-30-2025,Dmat Account transaction,1009
+C1000038,Marketing Promotions,Branding And Social Media Adds,2890231,05-28-2024,Dmat Account transaction,1009
+C1000039,American Airlines,Travel,3792248,11-26-2024,Debit card,1005
+C1000040,American Airlines,Travel,1356740,03-12-2025,Home Mortgage Account transaction,1007
+C1000041,Investment Contribution,Investments,1073002,12-12-2025,Dmat Account transaction,1009
+C1000042,Tesla,Gadgets,4412670,01-04-2024,Cash,1006
+C1000043,American Airlines,Travel,668579,08-29-2024,Credit Card,1001
+C1000044,Amazon,Grocery,1340851,04-01-2024,Dmat Account transaction,1009
+C1000045,Stock investment,Investments,3862745,03-01-2025,Credit Card,1001
+C1000046,Trump dream housing,Investments,1860462,07-18-2024,Home Mortgage Account transaction,1007
+C1000047,Trump dream housing,Investments,1448967,04-27-2024,Auto Loan Account transaction,1008
+C1000048,Wallmart,Electronics,89515,09-24-2024,Debit card,1005
+C1000049,Investment Contribution,Investments,726474,02-08-2024,Cash,1006
+C1000050,Gucci store,Luxury Shopping,96975,12-29-2025,Home Mortgage Account transaction,1007
+C1000051,American Airlines,Travel,177315,03-14-2025,Cash,1006
+C1000052,American Airlines,Travel,1581453,07-25-2025,Debit card,1005
+C1000053,Gucci store,Luxury Shopping,3705995,10-29-2025,Home Mortgage Account transaction,1007
+C1000054,American Airlines,Travel,2226722,01-24-2025,Dmat Account transaction,1009
+C1000055,Tesla,Gadgets,4909275,01-13-2024,Dmat Account transaction,1009
+C1000056,Tesla,Gadgets,3910522,06-13-2024,Debit card,1005
+C1000057,Marketing Promotions,Branding And Social Media Adds,202390,04-20-2025,Dmat Account transaction,1009
+C1000058,American Airlines,Travel,1083086,05-04-2025,Dmat Account transaction,1009
+C1000059,Apple,Gadgets,3007744,03-24-2025,Debit card,1005
+C1000060,Tesla,Gadgets,90344,08-01-2024,Auto Loan Account transaction,1008
+C1000061,Apple,Gadgets,554699,01-21-2024,Dmat Account transaction,1009
+C1000062,Investment Contribution,Investments,3595238,10-14-2024,Auto Loan Account transaction,1008
+C1000063,Marketing Promotions,Branding And Social Media Adds,1409329,03-07-2024,Auto Loan Account transaction,1008
+C1000064,Investment Contribution,Investments,869529,12-09-2025,Debit card,1005
+C1000065,Apple,Gadgets,542110,11-09-2025,Home Mortgage Account transaction,1007
+C1000066,Amazon,Grocery,157728,08-20-2025,Dmat Account transaction,1009
+C1000067,American Airlines,Travel,4104315,05-22-2024,Cash,1006
+C1000068,Investment Contribution,Investments,3728673,05-27-2024,Debit card,1005
+C1000069,Stock investment,Investments,893000,01-01-2025,Debit card,1005
+C1000070,Stock investment,Investments,1016555,08-01-2024,Cash,1006
+C1000071,Stock investment,Investments,2772771,01-04-2025,Credit Card,1001
+C1000072,Trump dream housing,Investments,2576000,07-06-2024,Auto Loan Account transaction,1008
+C1000073,American Airlines,Travel,3830400,10-29-2025,Cash,1006
+C1000074,Marketing Promotions,Branding And Social Media Adds,1173138,12-30-2025,Credit Card,1001
+C1000075,American Airlines,Travel,4066913,06-24-2024,Credit Card,1001
+C1000076,Gucci store,Luxury Shopping,2204833,02-16-2024,Credit Card,1001
+C1000077,Tesla,Gadgets,1181698,08-27-2025,Home Mortgage Account transaction,1008
+C1000078,Wallmart,Electronics,671793,04-10-2025,Cash,1006
+C1000079,Stock investment,Investments,869249,05-05-2024,Dmat Account transaction,1009
+C1000080,Marketing Promotions,Branding And Social Media Adds,2813812,04-16-2025,Credit Card,1001
+C1000081,American Airlines,Travel,2817098,07-15-2025,Home Mortgage Account transaction,1007
+C1000082,Gucci store,Luxury Shopping,1482337,07-13-2024,Dmat Account transaction,1009
+C1000083,Tesla,Gadgets,4873674,10-04-2025,Debit card,1005
+C1000084,Investment Contribution,Investments,2813801,09-03-2025,Credit Card,1001
+C1000085,Amazon,Grocery,1321388,11-30-2024,Dmat Account transaction,1009
+C1000086,American Airlines,Travel,1153215,10-10-2025,Auto Loan Account transaction,1008
+C1000087,Amazon,Grocery,4613601,02-26-2024,Cash,1006
+C1000088,American Airlines,Travel,2704715,01-11-2025,Home Mortgage Account transaction,1007
+C1000089,Stock investment,Investments,3698167,03-27-2024,Cash,1006
+C1000090,Marketing Promotions,Branding And Social Media Adds,1597450,09-03-2024,Auto Loan Account transaction,1008
+C1000091,Trump dream housing,Investments,345153,07-29-2024,Home Mortgage Account transaction,1007
+C1000092,Apple,Gadgets,4498605,02-10-2025,Dmat Account transaction,1009
+C1000093,Amazon,Grocery,1811030,05-12-2025,Home Mortgage Account transaction,1007
+C1000094,Marketing Promotions,Branding And Social Media Adds,3080079,10-08-2025,Debit card,1005
+C1000095,American Airlines,Travel,104763,01-18-2025,Dmat Account transaction,1009
+C1000096,American Airlines,Travel,3459540,09-12-2025,Dmat Account transaction,1009
+C1000097,Tesla,Gadgets,3868955,02-11-2025,Home Mortgage Account transaction,1008
+C1000098,Investment Contribution,Investments,4049911,12-22-2025,Dmat Account transaction,1009
+C1000099,Gucci store,Luxury Shopping,2563041,03-29-2024,Home Mortgage Account transaction,1007
+C1000100,Trump dream housing,Investments,2727502,02-20-2025,Cash,1006
+C1000101,Investment Contribution,Investments,1776273,05-09-2025,Debit card,1005
+C1000102,Gucci store,Luxury Shopping,3098896,12-22-2025,Credit Card,1001
+C1000103,American Airlines,Travel,2348304,09-09-2025,Home Mortgage Account transaction,1007
+C1000104,Amazon,Grocery,2251570,10-08-2025,Auto Loan Account transaction,1008
+C1000105,American Airlines,Travel,3176789,08-12-2024,Cash,1006
+C1000106,Stock investment,Investments,3988122,02-15-2025,Home Mortgage Account transaction,1007
+C1000107,Wallmart,Electronics,875409,06-21-2025,Cash,1006
+C1000108,Apple,Gadgets,941558,12-22-2024,Auto Loan Account transaction,1008
+C1000109,Wallmart,Electronics,2051362,10-15-2025,Debit card,1005
+C1000110,Investment Contribution,Investments,803776,07-14-2025,Auto Loan Account transaction,1008
+C1000111,Trump dream housing,Investments,2557877,06-29-2024,Dmat Account transaction,1009
+C1000112,Trump dream housing,Investments,423699,08-14-2025,Cash,1006
+C1000113,Stock investment,Investments,3713995,09-06-2025,Dmat Account transaction,1009
+C1000114,Investment Contribution,Investments,3882416,09-30-2024,Dmat Account transaction,1009
+C1000115,Investment Contribution,Investments,4461648,08-09-2024,Auto Loan Account transaction,1008
+C1000116,Apple,Gadgets,1159442,07-19-2024,Debit card,1005
+C1000117,Tesla,Gadgets,4483156,10-26-2024,Credit Card,1001
+C1000118,Marketing Promotions,Branding And Social Media Adds,734994,04-14-2025,Auto Loan Account transaction,1008
+C1000119,Tesla,Gadgets,2494551,10-09-2025,Auto Loan Account transaction,1008
+C1000120,Investment Contribution,Investments,1747610,08-07-2025,Debit card,1005
+C1000121,Apple,Gadgets,2129657,04-26-2025,Home Mortgage Account transaction,1007
+C1000122,Marketing Promotions,Branding And Social Media Adds,1730574,03-11-2024,Auto Loan Account transaction,1008
+C1000123,Marketing Promotions,Branding And Social Media Adds,2413941,07-07-2024,Cash,1006
+C1000124,American Airlines,Travel,764293,03-14-2024,Debit card,1005
+C1000125,Tesla,Gadgets,852285,04-01-2025,Dmat Account transaction,1009
+C1000126,Apple,Gadgets,9323,03-12-2025,Credit Card,1001
+C1000127,Amazon,Grocery,380023,05-01-2025,Auto Loan Account transaction,1008
+C1000128,Stock investment,Investments,1541270,10-31-2025,Auto Loan Account transaction,1008
+C1000129,Investment Contribution,Investments,2444144,07-10-2024,Cash,1006
+C1000130,Apple,Gadgets,1766312,08-08-2024,Dmat Account transaction,1009
+C1000131,Gucci store,Luxury Shopping,264820,06-20-2024,Cash,1006
+C1000132,Trump dream housing,Investments,1197848,05-22-2024,Home Mortgage Account transaction,1007
+C1000133,Tesla,Gadgets,2016861,03-29-2025,Home Mortgage Account transaction,1008
+C1000134,Investment Contribution,Investments,1716363,05-26-2024,Auto Loan Account transaction,1008
+C1000135,Amazon,Grocery,631614,12-18-2025,Credit Card,1001
+C1000136,Apple,Gadgets,2257439,07-26-2025,Dmat Account transaction,1009
+C1000137,Stock investment,Investments,3084226,11-12-2025,Dmat Account transaction,1009
+C1000138,Wallmart,Electronics,992185,12-17-2025,Home Mortgage Account transaction,1007
+C1000139,Investment Contribution,Investments,1079521,10-05-2024,Cash,1006
+C1000140,Wallmart,Electronics,3924370,03-05-2025,Debit card,1005
+C1000141,Wallmart,Electronics,4303479,04-04-2024,Cash,1006
+C1000142,Amazon,Grocery,2444947,06-06-2025,Cash,1006
+C1000143,Apple,Gadgets,3711244,07-11-2024,Debit card,1005
+C1000144,Trump dream housing,Investments,1834169,05-03-2024,Debit card,1005
+C1000145,Investment Contribution,Investments,2327295,07-07-2025,Auto Loan Account transaction,1008
+C1000146,Gucci store,Luxury Shopping,4819506,05-20-2024,Credit Card,1001
+C1000147,American Airlines,Travel,2959558,05-29-2025,Cash,1006
+C1000148,Investment Contribution,Investments,3446627,12-08-2024,Debit card,1005
+C1000149,Trump dream housing,Investments,2497301,02-28-2025,Debit card,1005
+C1000150,Wallmart,Electronics,4784471,10-17-2025,Cash,1006
+C1000151,Wallmart,Electronics,1343388,12-17-2024,Debit card,1005
+C1000152,Investment Contribution,Investments,3008809,03-03-2025,Dmat Account transaction,1009
+C1000153,Amazon,Grocery,3356225,12-28-2024,Debit card,1005
+C1000154,Trump dream housing,Investments,3703650,01-19-2025,Home Mortgage Account transaction,1007
+C1000155,Marketing Promotions,Branding And Social Media Adds,4328182,02-15-2024,Home Mortgage Account transaction,1007
+C1000156,American Airlines,Travel,4037600,07-04-2025,Debit card,1005
+C1000157,Tesla,Gadgets,4019606,09-19-2025,Dmat Account transaction,1009
+C1000158,Stock investment,Investments,149035,11-15-2025,Home Mortgage Account transaction,1007
+C1000159,Stock investment,Investments,620380,09-21-2025,Debit card,1005
+C1000160,Apple,Gadgets,3465400,08-23-2024,Dmat Account transaction,1009
+C1000161,Marketing Promotions,Branding And Social Media Adds,424811,04-07-2024,Auto Loan Account transaction,1008
+C1000162,Stock investment,Investments,293779,09-23-2025,Dmat Account transaction,1009
+C1000163,Marketing Promotions,Branding And Social Media Adds,2020875,08-26-2024,Cash,1006
+C1000164,Trump dream housing,Investments,4584085,11-29-2024,Home Mortgage Account transaction,1007
+C1000165,Apple,Gadgets,1311820,04-29-2024,Dmat Account transaction,1009
+C1000166,American Airlines,Travel,4083774,01-25-2025,Dmat Account transaction,1009
+C1000167,Tesla,Gadgets,395823,04-22-2025,Dmat Account transaction,1009
+C1000168,American Airlines,Travel,1606257,04-04-2025,Dmat Account transaction,1009
+C1000169,Investment Contribution,Investments,4971901,12-10-2024,Credit Card,1001
+C1000170,Stock investment,Investments,2803798,02-15-2024,Credit Card,1001
+C1000171,Investment Contribution,Investments,1239653,04-08-2025,Credit Card,1001
+C1000172,Amazon,Grocery,2086064,02-08-2024,Dmat Account transaction,1009
+C1000173,American Airlines,Travel,979600,02-25-2024,Debit card,1005
+C1000174,Marketing Promotions,Branding And Social Media Adds,619846,09-20-2025,Home Mortgage Account transaction,1007
+C1000175,Wallmart,Electronics,1672088,06-20-2025,Dmat Account transaction,1009
+C1000176,Apple,Gadgets,525639,10-25-2025,Dmat Account transaction,1009
+C1000177,Trump dream housing,Investments,2424489,11-25-2024,Credit Card,1001
+C1000178,Amazon,Grocery,4036939,10-14-2024,Credit Card,1001
+C1000179,Wallmart,Electronics,912682,04-27-2025,Dmat Account transaction,1009
+C1000180,Marketing Promotions,Branding And Social Media Adds,92183,04-01-2024,Auto Loan Account transaction,1008
+C1000181,Apple,Gadgets,2998462,10-22-2024,Cash,1006
+C1000182,Marketing Promotions,Branding And Social Media Adds,3659739,08-10-2025,Dmat Account transaction,1009
+C1000183,Investment Contribution,Investments,1235140,12-16-2024,Credit Card,1001
+C1000184,American Airlines,Travel,490596,02-12-2025,Dmat Account transaction,1009
+C1000185,Gucci store,Luxury Shopping,3594767,09-29-2024,Auto Loan Account transaction,1008
+C1000186,Tesla,Gadgets,2072550,10-13-2025,Credit Card,1001
+C1000187,Gucci store,Luxury Shopping,4071024,11-18-2025,Credit Card,1001
+C1000188,Stock investment,Investments,3203501,01-07-2025,Dmat Account transaction,1009
+C1000189,Gucci store,Luxury Shopping,547923,08-03-2024,Dmat Account transaction,1009
+C1000190,Stock investment,Investments,3724386,11-21-2024,Auto Loan Account transaction,1008
+C1000191,Marketing Promotions,Branding And Social Media Adds,2343017,04-02-2024,Debit card,1005
+C1000192,Trump dream housing,Investments,1047150,07-29-2025,Home Mortgage Account transaction,1007
+C1000193,Marketing Promotions,Branding And Social Media Adds,2949774,01-28-2025,Auto Loan Account transaction,1008
+C1000194,Amazon,Grocery,1200078,04-05-2024,Credit Card,1001
+C1000195,Gucci store,Luxury Shopping,4655231,12-12-2025,Credit Card,1001
+C1000196,Amazon,Grocery,4379270,04-06-2025,Auto Loan Account transaction,1008
+C1000197,Amazon,Grocery,2156761,01-11-2025,Cash,1006
+C1000198,Wallmart,Electronics,3226273,06-30-2025,Credit Card,1002
+C1000199,Gucci store,Luxury Shopping,4841076,09-01-2024,Dmat Account transaction,1009
+C1000200,Wallmart,Electronics,3716841,04-29-2025,Auto Loan Account transaction,1008
+C1000201,Investment Contribution,Investments,4497167,03-20-2024,Cash,1006
+C1000202,Amazon,Grocery,3903168,11-15-2024,Dmat Account transaction,1009
+C1000203,Investment Contribution,Investments,2973209,05-11-2024,Home Mortgage Account transaction,1007
+C1000204,Marketing Promotions,Branding And Social Media Adds,2154714,05-21-2025,Credit Card,1002
+C1000205,Marketing Promotions,Branding And Social Media Adds,506589,03-28-2024,Debit card,1005
+C1000206,Apple,Gadgets,1096588,06-23-2024,Home Mortgage Account transaction,1007
+C1000207,Investment Contribution,Investments,426853,06-06-2024,Auto Loan Account transaction,1008
+C1000208,Stock investment,Investments,6113,12-25-2024,Dmat Account transaction,1009
+C1000209,Investment Contribution,Investments,1102265,03-19-2025,Dmat Account transaction,1009
+C1000210,Tesla,Gadgets,2859222,09-25-2024,Cash,1006
+C1000211,Marketing Promotions,Branding And Social Media Adds,3556983,11-01-2024,Cash,1006
+C1000212,Apple,Gadgets,2889965,09-01-2025,Auto Loan Account transaction,1008
+C1000213,American Airlines,Travel,4939493,02-10-2024,Dmat Account transaction,1009
+C1000214,Apple,Gadgets,4196994,01-16-2025,Home Mortgage Account transaction,1007
+C1000215,Marketing Promotions,Branding And Social Media Adds,4467443,02-14-2025,Debit card,1005
+C1000216,Amazon,Grocery,3956965,05-25-2024,Credit Card,1002
+C1000217,Wallmart,Electronics,477599,07-13-2024,Auto Loan Account transaction,1008
+C1000218,Investment Contribution,Investments,17126,05-22-2024,Auto Loan Account transaction,1008
+C1000219,American Airlines,Travel,3888880,04-15-2024,Debit card,1005
+C1000220,Amazon,Grocery,3199003,04-23-2024,Cash,1006
+C1000221,Tesla,Gadgets,1240635,12-30-2025,Cash,1006
+C1000222,Trump dream housing,Investments,1029000,05-12-2025,Credit Card,1002
+C1000223,Trump dream housing,Investments,613400,10-11-2025,Debit card,1005
+C1000224,Trump dream housing,Investments,1390861,01-13-2024,Auto Loan Account transaction,1008
+C1000225,Gucci store,Luxury Shopping,3346205,10-10-2025,Auto Loan Account transaction,1008
+C1000226,Apple,Gadgets,4142285,08-15-2024,Home Mortgage Account transaction,1007
+C1000227,Tesla,Gadgets,2271064,10-02-2025,Dmat Account transaction,1009
+C1000228,Stock investment,Investments,1672851,11-26-2024,Dmat Account transaction,1009
+C1000229,Stock investment,Investments,4565230,04-05-2025,Cash,1006
+C1000230,Wallmart,Electronics,4987575,05-02-2025,Dmat Account transaction,1009
+C1000231,Trump dream housing,Investments,3058564,06-13-2025,Cash,1006
+C1000232,Amazon,Grocery,389310,12-12-2024,Home Mortgage Account transaction,1007
+C1000233,Marketing Promotions,Branding And Social Media Adds,1443335,03-08-2024,Home Mortgage Account transaction,1007
+C1000234,Investment Contribution,Investments,2215392,05-04-2024,Credit Card,1002
+C1000235,American Airlines,Travel,2767324,11-04-2025,Home Mortgage Account transaction,1007
+C1000236,Investment Contribution,Investments,3837935,08-10-2025,Debit card,1005
+C1000237,Tesla,Gadgets,1468215,05-12-2025,Home Mortgage Account transaction,1008
+C1000238,Apple,Gadgets,1111256,09-25-2024,Dmat Account transaction,1009
+C1000239,Marketing Promotions,Branding And Social Media Adds,3157523,03-08-2024,Cash,1006
+C1000240,American Airlines,Travel,4987785,01-01-2024,Dmat Account transaction,1009
+C1000241,Wallmart,Electronics,1808519,06-29-2024,Cash,1006
+C1000242,Apple,Gadgets,3936327,12-18-2025,Dmat Account transaction,1009
+C1000243,Trump dream housing,Investments,4415569,11-16-2025,Cash,1006
+C1000244,Investment Contribution,Investments,673802,10-28-2024,Home Mortgage Account transaction,1007
+C1000245,Gucci store,Luxury Shopping,4995230,10-16-2025,Home Mortgage Account transaction,1007
+C1000246,Investment Contribution,Investments,1636710,07-26-2025,Dmat Account transaction,1009
+C1000247,Trump dream housing,Investments,3169627,08-31-2025,Home Mortgage Account transaction,1007
+C1000248,Amazon,Grocery,4188252,09-01-2025,Credit Card,1002
+C1000249,Tesla,Gadgets,1023925,04-14-2025,Dmat Account transaction,1009
+C1000250,Tesla,Gadgets,1602286,07-21-2025,Cash,1006
+C1000251,Gucci store,Luxury Shopping,2861007,10-03-2025,Dmat Account transaction,1009
+C1000252,Amazon,Grocery,794856,11-22-2025,Auto Loan Account transaction,1008
+C1000253,Tesla,Gadgets,3074711,04-15-2024,Dmat Account transaction,1009
+C1000254,Investment Contribution,Investments,460218,07-07-2025,Credit Card,1002
+C1000255,American Airlines,Travel,1011591,10-05-2024,Home Mortgage Account transaction,1007
+C1000256,Trump dream housing,Investments,3629528,12-08-2024,Debit card,1005
+C1000257,Trump dream housing,Investments,183180,06-05-2025,Dmat Account transaction,1009
+C1000258,Gucci store,Luxury Shopping,2262682,01-20-2025,Home Mortgage Account transaction,1007
+C1000259,Apple,Gadgets,402813,03-20-2024,Cash,1006
+C1000260,Marketing Promotions,Branding And Social Media Adds,779435,10-17-2025,Home Mortgage Account transaction,1007
+C1000261,Trump dream housing,Investments,360787,11-18-2025,Credit Card,1002
+C1000262,Stock investment,Investments,2348701,01-09-2024,Debit card,1005
+C1000263,Tesla,Gadgets,3529760,04-22-2025,Cash,1006
+C1000264,Investment Contribution,Investments,3327655,03-10-2024,Home Mortgage Account transaction,1007
+C1000265,Apple,Gadgets,1852312,06-02-2024,Dmat Account transaction,1009
+C1000266,Marketing Promotions,Branding And Social Media Adds,261723,07-02-2024,Home Mortgage Account transaction,1007
+C1000267,Marketing Promotions,Branding And Social Media Adds,4219239,11-29-2024,Credit Card,1002
+C1000268,Amazon,Grocery,4827550,06-27-2024,Dmat Account transaction,1009
+C1000269,Stock investment,Investments,4947321,11-04-2024,Debit card,1005
+C1000270,Investment Contribution,Investments,2518284,05-01-2024,Auto Loan Account transaction,1008
+C1000271,Apple,Gadgets,1532771,09-30-2024,Dmat Account transaction,1009
+C1000272,Wallmart,Electronics,1403790,01-09-2025,Home Mortgage Account transaction,1007
+C1000273,Amazon,Grocery,3065677,09-12-2024,Credit Card,1002
+C1000274,Apple,Gadgets,138686,09-23-2024,Credit Card,1002
+C1000275,Amazon,Grocery,3461962,08-16-2025,Credit Card,1002
+C1000276,Investment Contribution,Investments,3523319,10-01-2024,Auto Loan Account transaction,1008
+C1000277,Investment Contribution,Investments,3628202,03-03-2024,Auto Loan Account transaction,1008
+C1000278,Gucci store,Luxury Shopping,1098851,01-26-2025,Auto Loan Account transaction,1008
+C1000279,Marketing Promotions,Branding And Social Media Adds,2237728,04-17-2025,Dmat Account transaction,1009
+C1000280,American Airlines,Travel,3085007,05-03-2024,Home Mortgage Account transaction,1007
+C1000281,Apple,Gadgets,1603303,12-28-2025,Credit Card,1002
+C1000282,Trump dream housing,Investments,3511666,09-12-2025,Home Mortgage Account transaction,1007
+C1000283,Gucci store,Luxury Shopping,2450173,02-16-2024,Cash,1006
+C1000284,Investment Contribution,Investments,3892268,11-22-2025,Auto Loan Account transaction,1008
+C1000285,Investment Contribution,Investments,4301517,11-05-2025,Cash,1006
+C1000286,Amazon,Grocery,1128316,01-19-2025,Dmat Account transaction,1009
+C1000287,Trump dream housing,Investments,2596812,11-25-2024,Cash,1006
+C1000288,Tesla,Gadgets,1870342,11-29-2025,Home Mortgage Account transaction,1008
+C1000289,Stock investment,Investments,624018,10-13-2024,Home Mortgage Account transaction,1007
+C1000290,Stock investment,Investments,1914321,01-24-2024,Dmat Account transaction,1009
+C1000291,American Airlines,Travel,3116061,10-21-2025,Home Mortgage Account transaction,1007
+C1000292,Trump dream housing,Investments,1924462,05-16-2024,Cash,1006
+C1000293,Tesla,Gadgets,2489354,01-07-2025,Home Mortgage Account transaction,1008
+C1000294,Gucci store,Luxury Shopping,1132224,05-14-2024,Home Mortgage Account transaction,1007
+C1000295,Stock investment,Investments,3040775,04-14-2024,Cash,1006
+C1000296,Investment Contribution,Investments,3506594,10-10-2024,Cash,1006
+C1000297,Wallmart,Electronics,1755133,05-16-2025,Cash,1006
+C1000298,Trump dream housing,Investments,1769276,05-22-2025,Home Mortgage Account transaction,1007
+C1000299,Trump dream housing,Investments,4214686,08-24-2025,Credit Card,1002
+C1000300,Amazon,Grocery,748918,02-01-2024,Cash,1006
+C1000301,Wallmart,Electronics,2515300,05-18-2024,Dmat Account transaction,1009
+C1000302,Stock investment,Investments,4787425,08-07-2024,Debit card,1005
+C1000303,Wallmart,Electronics,4348580,02-11-2025,Auto Loan Account transaction,1008
+C1000304,American Airlines,Travel,4859378,10-27-2024,Credit Card,1002
+C1000305,American Airlines,Travel,4784684,02-27-2024,Auto Loan Account transaction,1008
+C1000306,Marketing Promotions,Branding And Social Media Adds,2660706,05-31-2024,Auto Loan Account transaction,1008
+C1000307,Tesla,Gadgets,189650,01-11-2024,Home Mortgage Account transaction,1008
+C1000308,Trump dream housing,Investments,1685671,07-13-2024,Cash,1006
+C1000309,Gucci store,Luxury Shopping,1308209,01-21-2024,Dmat Account transaction,1009
+C1000310,Stock investment,Investments,829577,10-11-2025,Cash,1006
+C1000311,Stock investment,Investments,2048102,10-26-2024,Home Mortgage Account transaction,1007
+C1000312,Tesla,Gadgets,1514788,01-14-2024,Dmat Account transaction,1009
+C1000313,Marketing Promotions,Branding And Social Media Adds,3796750,02-03-2025,Dmat Account transaction,1009
+C1000314,Trump dream housing,Investments,969102,12-04-2025,Debit card,1005
+C1000315,Stock investment,Investments,3824036,10-11-2024,Auto Loan Account transaction,1008
+C1000316,Trump dream housing,Investments,3620280,03-08-2024,Dmat Account transaction,1009
+C1000317,Gucci store,Luxury Shopping,3808089,03-24-2024,Dmat Account transaction,1009
+C1000318,Gucci store,Luxury Shopping,1362766,03-26-2025,Credit Card,1004
+C1000319,Gucci store,Luxury Shopping,1753668,01-23-2024,Cash,1006
+C1000320,American Airlines,Travel,555485,11-07-2025,Debit card,1005
+C1000321,Investment Contribution,Investments,4038494,07-26-2024,Auto Loan Account transaction,1008
+C1000322,Wallmart,Electronics,823005,03-11-2024,Credit Card,1004
+C1000323,American Airlines,Travel,3987363,06-23-2024,Dmat Account transaction,1009
+C1000324,Marketing Promotions,Branding And Social Media Adds,4447474,01-31-2025,Debit card,1005
+C1000325,Wallmart,Electronics,1501003,12-13-2025,Credit Card,1004
+C1000326,American Airlines,Travel,1227509,12-31-2024,Home Mortgage Account transaction,1007
+C1000327,Marketing Promotions,Branding And Social Media Adds,4890005,07-17-2025,Home Mortgage Account transaction,1007
+C1000328,Stock investment,Investments,1652012,08-04-2025,Credit Card,1004
+C1000329,American Airlines,Travel,105771,11-10-2025,Auto Loan Account transaction,1008
+C1000330,Marketing Promotions,Branding And Social Media Adds,1164315,05-23-2024,Home Mortgage Account transaction,1007
+C1000331,American Airlines,Travel,3088563,05-13-2025,Dmat Account transaction,1009
+C1000332,Tesla,Gadgets,3257759,12-22-2024,Dmat Account transaction,1009
+C1000333,Amazon,Grocery,3729657,04-04-2025,Auto Loan Account transaction,1008
+C1000334,Trump dream housing,Investments,2184076,02-11-2025,Home Mortgage Account transaction,1007
+C1000335,Marketing Promotions,Branding And Social Media Adds,3782571,05-08-2025,Auto Loan Account transaction,1008
+C1000336,Investment Contribution,Investments,4928106,07-21-2025,Auto Loan Account transaction,1008
+C1000337,Amazon,Grocery,3689590,08-21-2024,Credit Card,1004
+C1000338,Investment Contribution,Investments,3488233,03-14-2024,Debit card,1005
+C1000339,Amazon,Grocery,2760583,06-12-2024,Dmat Account transaction,1009
+C1000340,Wallmart,Electronics,630359,10-28-2025,Debit card,1005
+C1000341,Trump dream housing,Investments,2237178,01-10-2024,Debit card,1005
+C1000342,Investment Contribution,Investments,2890262,11-03-2025,Dmat Account transaction,1009
+C1000343,Investment Contribution,Investments,4185685,06-07-2025,Cash,1006
+C1000344,Tesla,Gadgets,3121489,01-16-2024,Cash,1006
+C1000345,American Airlines,Travel,1701267,06-28-2025,Credit Card,1004
+C1000346,Apple,Gadgets,3967146,07-21-2025,Dmat Account transaction,1009
+C1000347,Trump dream housing,Investments,3771059,03-29-2025,Cash,1006
+C1000348,Tesla,Gadgets,3668664,01-13-2025,Dmat Account transaction,1009
+C1000349,Trump dream housing,Investments,4701878,09-01-2025,Cash,1006
+C1000350,Trump dream housing,Investments,3199660,10-16-2025,Home Mortgage Account transaction,1007
+C1000351,Stock investment,Investments,2521331,07-06-2024,Dmat Account transaction,1009
+C1000352,Trump dream housing,Investments,2933020,12-01-2024,Cash,1006
+C1000353,Tesla,Gadgets,2726211,12-17-2024,Debit card,1005
+C1000354,Wallmart,Electronics,4333117,09-04-2024,Debit card,1005
+C1000355,Amazon,Grocery,192762,08-03-2024,Credit Card,1004
+C1000356,Apple,Gadgets,2135400,02-12-2025,Auto Loan Account transaction,1008
+C1000357,Trump dream housing,Investments,2510251,02-18-2025,Dmat Account transaction,1009
+C1000358,Wallmart,Electronics,1023190,11-06-2024,Auto Loan Account transaction,1008
+C1000359,Trump dream housing,Investments,1151578,07-12-2024,Cash,1006
+C1000360,Marketing Promotions,Branding And Social Media Adds,3886733,06-24-2024,Dmat Account transaction,1009
+C1000361,Wallmart,Electronics,4897678,12-28-2025,Debit card,1005
+C1000362,Trump dream housing,Investments,4002274,09-15-2025,Dmat Account transaction,1009
+C1000363,Marketing Promotions,Branding And Social Media Adds,4885911,03-28-2025,Home Mortgage Account transaction,1007
+C1000364,Tesla,Gadgets,3095781,02-13-2024,Credit Card,1004
+C1000365,Marketing Promotions,Branding And Social Media Adds,68624,01-30-2024,Home Mortgage Account transaction,1007
+C1000366,Gucci store,Luxury Shopping,550479,06-17-2024,Debit card,1005
+C1000367,Stock investment,Investments,3079664,03-13-2025,Credit Card,1004
+C1000368,Amazon,Grocery,2766149,04-20-2025,Home Mortgage Account transaction,1007
+C1000369,Apple,Gadgets,4730956,02-11-2025,Credit Card,1004
+C1000370,Amazon,Grocery,3746145,03-25-2025,Cash,1006
+C1000371,Stock investment,Investments,3749571,10-13-2025,Auto Loan Account transaction,1008
+C1000372,Investment Contribution,Investments,1715909,09-07-2024,Dmat Account transaction,1009
+C1000373,Stock investment,Investments,2660045,02-04-2024,Debit card,1005
+C1000374,Tesla,Gadgets,533384,05-20-2024,Home Mortgage Account transaction,1008
+C1000375,Wallmart,Electronics,3019707,11-02-2025,Auto Loan Account transaction,1008
+C1000376,Gucci store,Luxury Shopping,1190101,04-20-2024,Home Mortgage Account transaction,1007
+C1000377,Investment Contribution,Investments,3833035,10-23-2025,Dmat Account transaction,1009
+C1000378,Apple,Gadgets,2212264,04-01-2024,Debit card,1005
+C1000379,Apple,Gadgets,4105424,02-09-2024,Credit Card,1004
+C1000380,Marketing Promotions,Branding And Social Media Adds,2761646,05-28-2024,Credit Card,1004
+C1000381,Tesla,Gadgets,726473,06-29-2024,Credit Card,1004
+C1000382,Marketing Promotions,Branding And Social Media Adds,3016171,07-24-2024,Credit Card,1004
+C1000383,Gucci store,Luxury Shopping,2132196,05-17-2024,Auto Loan Account transaction,1008
+C1000384,Amazon,Grocery,687457,11-26-2025,Home Mortgage Account transaction,1007
+C1000385,Tesla,Gadgets,1831945,10-25-2024,Home Mortgage Account transaction,1008
+C1000386,Marketing Promotions,Branding And Social Media Adds,2264160,10-03-2024,Debit card,1005
+C1000387,Stock investment,Investments,565637,10-08-2024,Credit Card,1004
+C1000388,Stock investment,Investments,3031279,10-26-2025,Dmat Account transaction,1009
+C1000389,Gucci store,Luxury Shopping,4724677,02-09-2025,Cash,1006
+C1000390,Trump dream housing,Investments,142318,09-04-2024,Dmat Account transaction,1009
+C1000391,American Airlines,Travel,3778077,01-04-2024,Dmat Account transaction,1009
+C1000392,Stock investment,Investments,1576123,09-16-2025,Home Mortgage Account transaction,1007
+C1000393,Amazon,Grocery,353674,10-31-2024,Credit Card,1004
+C1000394,Apple,Gadgets,1511205,02-20-2025,Cash,1006
+C1000395,Wallmart,Electronics,4845981,05-21-2025,Auto Loan Account transaction,1008
+C1000396,Trump dream housing,Investments,4853950,12-21-2025,Home Mortgage Account transaction,1007
+C1000397,Stock investment,Investments,3949909,05-12-2025,Cash,1006
+C1000398,Investment Contribution,Investments,3911450,11-29-2024,Credit Card,1004
+C1000399,Gucci store,Luxury Shopping,924237,09-25-2024,Debit card,1005
+C1000400,Marketing Promotions,Branding And Social Media Adds,3265988,06-15-2024,Home Mortgage Account transaction,1007
+C1000401,Apple,Gadgets,1569441,02-03-2024,Dmat Account transaction,1009
+C1000402,American Airlines,Travel,3389530,03-14-2025,Dmat Account transaction,1009
+C1000403,Amazon,Grocery,2574377,03-24-2025,Home Mortgage Account transaction,1007
+C1000404,Marketing Promotions,Branding And Social Media Adds,2523411,03-08-2025,Dmat Account transaction,1009
+C1000405,Wallmart,Electronics,280333,04-19-2024,Cash,1006
+C1000406,Stock investment,Investments,795943,07-21-2024,Credit Card,1004
+C1000407,Investment Contribution,Investments,39720,12-08-2025,Credit Card,1004
+C1000408,Trump dream housing,Investments,4721253,04-10-2025,Home Mortgage Account transaction,1007
+C1000409,American Airlines,Travel,44183,08-18-2025,Cash,1006
+C1000410,Amazon,Grocery,2660883,01-24-2025,Dmat Account transaction,1009
+C1000411,Wallmart,Electronics,483725,11-30-2025,Auto Loan Account transaction,1008
+C1000412,Marketing Promotions,Branding And Social Media Adds,3678018,06-06-2024,Home Mortgage Account transaction,1007
+C1000413,Trump dream housing,Investments,257356,09-05-2025,Cash,1006
+C1000414,Investment Contribution,Investments,3842609,05-21-2024,Auto Loan Account transaction,1008
+C1000415,Marketing Promotions,Branding And Social Media Adds,3077521,05-05-2024,Credit Card,1002
+C1000416,American Airlines,Travel,4015766,08-24-2024,Credit Card,1002
+C1000417,American Airlines,Travel,4534117,03-13-2025,Debit card,1005
+C1000418,Gucci store,Luxury Shopping,1777709,01-14-2025,Dmat Account transaction,1009
+C1000419,Trump dream housing,Investments,293431,07-12-2024,Credit Card,1002
+C1000420,Trump dream housing,Investments,2807375,12-09-2024,Cash,1006
+C1000421,Gucci store,Luxury Shopping,1819370,06-14-2024,Credit Card,1002
+C1000422,Trump dream housing,Investments,4746015,05-04-2024,Dmat Account transaction,1009
+C1000423,Stock investment,Investments,2751473,12-20-2024,Auto Loan Account transaction,1008
+C1000424,Tesla,Gadgets,2277750,07-11-2025,Credit Card,1002
+C1000425,Apple,Gadgets,3386444,08-01-2025,Auto Loan Account transaction,1008
+C1000426,Gucci store,Luxury Shopping,2654798,01-18-2025,Credit Card,1002
+C1000427,Gucci store,Luxury Shopping,2219365,03-17-2024,Credit Card,1002
+C1000428,Stock investment,Investments,827592,06-04-2025,Home Mortgage Account transaction,1007
+C1000429,Trump dream housing,Investments,1648291,10-21-2025,Auto Loan Account transaction,1008
+C1000430,Wallmart,Electronics,986775,04-24-2025,Home Mortgage Account transaction,1007
+C1000431,Tesla,Gadgets,3390014,10-27-2025,Debit card,1005
+C1000432,Gucci store,Luxury Shopping,2433480,02-10-2024,Home Mortgage Account transaction,1007
+C1000433,American Airlines,Travel,1547865,09-23-2024,Dmat Account transaction,1009
+C1000434,Apple,Gadgets,4026045,10-25-2025,Credit Card,1002
+C1000435,Gucci store,Luxury Shopping,4706761,10-22-2025,Debit card,1005
+C1000436,Wallmart,Electronics,1449847,01-18-2025,Dmat Account transaction,1009
+C1000437,Apple,Gadgets,4972561,12-28-2025,Dmat Account transaction,1009
+C1000438,Stock investment,Investments,693358,11-25-2024,Cash,1006
+C1000439,Gucci store,Luxury Shopping,3392893,02-25-2024,Cash,1006
+C1000440,American Airlines,Travel,1443943,08-07-2025,Dmat Account transaction,1009
+C1000441,Gucci store,Luxury Shopping,2986172,01-12-2024,Auto Loan Account transaction,1008
+C1000442,Stock investment,Investments,3080492,12-20-2024,Debit card,1005
+C1000443,Stock investment,Investments,3679108,08-12-2025,Auto Loan Account transaction,1008
+C1000444,Stock investment,Investments,1542097,04-13-2025,Dmat Account transaction,1009
+C1000445,Wallmart,Electronics,1681497,07-07-2024,Credit Card,1002
+C1000446,Amazon,Grocery,1329522,05-19-2024,Dmat Account transaction,1009
+C1000447,Investment Contribution,Investments,3234290,03-01-2024,Home Mortgage Account transaction,1007
+C1000448,Trump dream housing,Investments,3235718,09-30-2024,Cash,1006
+C1000449,Marketing Promotions,Branding And Social Media Adds,2221296,07-02-2024,Debit card,1005
+C1000450,Tesla,Gadgets,4563341,07-07-2025,Debit card,1005
+C1000451,Wallmart,Electronics,2580105,11-14-2024,Home Mortgage Account transaction,1007
+C1000452,Apple,Gadgets,4672454,12-04-2025,Home Mortgage Account transaction,1007
+C1000453,Investment Contribution,Investments,3358962,05-01-2024,Credit Card,1002
+C1000454,Investment Contribution,Investments,696491,02-03-2025,Home Mortgage Account transaction,1007
+C1000455,Amazon,Grocery,1529247,08-13-2024,Cash,1006
+C1000456,Tesla,Gadgets,2876774,09-15-2025,Credit Card,1002
+C1000457,American Airlines,Travel,4648201,04-22-2024,Cash,1006
+C1000458,Apple,Gadgets,337227,03-18-2024,Dmat Account transaction,1009
+C1000459,Investment Contribution,Investments,4134212,10-12-2025,Credit Card,1002
+C1000460,Gucci store,Luxury Shopping,2799329,11-23-2024,Debit card,1005
+C1000461,Marketing Promotions,Branding And Social Media Adds,1493754,12-31-2024,Home Mortgage Account transaction,1007
+C1000462,Marketing Promotions,Branding And Social Media Adds,2698726,07-09-2024,Dmat Account transaction,1009
+C1000463,Amazon,Grocery,2850712,12-01-2024,Home Mortgage Account transaction,1007
+C1000464,Tesla,Gadgets,3283730,04-26-2025,Credit Card,1002
+C1000465,Apple,Gadgets,397501,05-01-2025,Dmat Account transaction,1009
+C1000466,Investment Contribution,Investments,46317,04-09-2025,Cash,1006
+C1000467,Trump dream housing,Investments,1462032,04-21-2024,Home Mortgage Account transaction,1007
+C1000468,Stock investment,Investments,2173756,03-08-2025,Debit card,1005
+C1000469,American Airlines,Travel,298191,06-06-2025,Credit Card,1002
+C1000470,Investment Contribution,Investments,4831140,11-23-2025,Credit Card,1002
+C1000471,Stock investment,Investments,1286499,07-06-2024,Home Mortgage Account transaction,1007
+C1000472,Wallmart,Electronics,3755583,12-14-2025,Dmat Account transaction,1009
+C1000473,Marketing Promotions,Branding And Social Media Adds,1042188,04-27-2024,Home Mortgage Account transaction,1007
+C1000474,American Airlines,Travel,2548351,01-02-2025,Cash,1006
+C1000475,Tesla,Gadgets,2290657,10-22-2025,Debit card,1005
+C1000476,Gucci store,Luxury Shopping,4524406,04-16-2025,Auto Loan Account transaction,1008
+C1000477,Gucci store,Luxury Shopping,4317855,09-13-2025,Auto Loan Account transaction,1008
+C1000478,Trump dream housing,Investments,4464746,08-31-2024,Home Mortgage Account transaction,1007
+C1000479,Apple,Gadgets,2420778,05-07-2024,Cash,1006
+C1000480,Tesla,Gadgets,4299615,09-07-2024,Debit card,1005
+C1000481,Amazon,Grocery,1829794,11-24-2025,Credit Card,1002
+C1000482,Amazon,Grocery,721972,05-20-2024,Home Mortgage Account transaction,1007
+C1000483,Apple,Gadgets,2334261,06-15-2024,Home Mortgage Account transaction,1007
+C1000484,Stock investment,Investments,3374950,04-19-2025,Cash,1006
+C1000485,Investment Contribution,Investments,710240,11-28-2024,Home Mortgage Account transaction,1007
+C1000486,Amazon,Grocery,4154396,06-17-2025,Debit card,1005
+C1000487,Amazon,Grocery,1906657,03-27-2025,Debit card,1005
+C1000488,Apple,Gadgets,1978406,06-09-2024,Credit Card,1002
+C1000489,Trump dream housing,Investments,4065420,12-17-2025,Dmat Account transaction,1009
+C1000490,Amazon,Grocery,4145994,03-30-2025,Credit Card,1002
+C1000491,Marketing Promotions,Branding And Social Media Adds,3884176,05-31-2024,Credit Card,1002
+C1000492,Investment Contribution,Investments,4274695,09-01-2025,Dmat Account transaction,1009
+C1000493,Gucci store,Luxury Shopping,2549396,03-03-2025,Credit Card,1002
+C1000494,Investment Contribution,Investments,3115153,12-04-2024,Home Mortgage Account transaction,1007
+C1000495,Amazon,Grocery,4813958,03-30-2024,Debit card,1005
+C1000496,Gucci store,Luxury Shopping,1770483,06-24-2024,Debit card,1005
+C1000497,Gucci store,Luxury Shopping,4503643,04-27-2025,Auto Loan Account transaction,1008
+C1000498,Gucci store,Luxury Shopping,1478723,05-26-2024,Home Mortgage Account transaction,1007
+C1000499,Investment Contribution,Investments,3044764,07-07-2025,Credit Card,1002
+C1000500,American Airlines,Travel,2968699,08-09-2025,Dmat Account transaction,1009
+C1000501,Stock investment,Investments,2363958,07-14-2024,Credit Card,1002
+C1000502,Trump dream housing,Investments,4762957,06-03-2025,Dmat Account transaction,1009
+C1000503,Trump dream housing,Investments,1385408,08-15-2024,Auto Loan Account transaction,1008
+C1000504,Marketing Promotions,Branding And Social Media Adds,4374944,08-19-2025,Dmat Account transaction,1009
+C1000505,American Airlines,Travel,562464,05-16-2024,Home Mortgage Account transaction,1007
+C1000506,Tesla,Gadgets,4588426,12-21-2025,Cash,1006
+C1000507,Trump dream housing,Investments,695192,09-15-2024,Auto Loan Account transaction,1008
+C1000508,Tesla,Gadgets,2640735,04-18-2025,Auto Loan Account transaction,1008
+C1000509,Tesla,Gadgets,2541633,05-09-2025,Auto Loan Account transaction,1008
+C1000510,American Airlines,Travel,4331899,05-30-2024,Credit Card,1002
+C1000511,Stock investment,Investments,4812325,04-28-2024,Dmat Account transaction,1009
+C1000512,Stock investment,Investments,1397952,05-15-2024,Home Mortgage Account transaction,1007
+C1000513,Wallmart,Electronics,1386675,03-15-2025,Credit Card,1002
+C1000514,Tesla,Gadgets,193431,11-14-2024,Credit Card,1002
+C1000515,Stock investment,Investments,2711614,10-24-2025,Debit card,1005
+C1000516,Gucci store,Luxury Shopping,524526,11-23-2025,Credit Card,1002
+C1000517,Trump dream housing,Investments,2285526,08-13-2025,Auto Loan Account transaction,1008
+C1000518,American Airlines,Travel,4256338,04-05-2025,Auto Loan Account transaction,1008
+C1000519,Apple,Gadgets,2160995,11-25-2025,Dmat Account transaction,1009
+C1000520,Tesla,Gadgets,231953,09-28-2024,Cash,1006
+C1000521,Investment Contribution,Investments,4473793,09-19-2024,Debit card,1005
+C1000522,Gucci store,Luxury Shopping,929866,05-06-2024,Cash,1006
+C1000523,Gucci store,Luxury Shopping,4035358,10-28-2025,Home Mortgage Account transaction,1007
+C1000524,Tesla,Gadgets,4937260,12-30-2025,Auto Loan Account transaction,1008
+C1000525,Marketing Promotions,Branding And Social Media Adds,2636893,02-28-2025,Cash,1006
+C1000526,Investment Contribution,Investments,2710147,10-15-2024,Auto Loan Account transaction,1008
+C1000527,American Airlines,Travel,1412184,02-07-2024,Dmat Account transaction,1009
+C1000528,Gucci store,Luxury Shopping,3681977,12-16-2024,Home Mortgage Account transaction,1007
+C1000529,Gucci store,Luxury Shopping,1740051,04-20-2025,Auto Loan Account transaction,1008
+C1000530,Stock investment,Investments,591562,11-08-2025,Auto Loan Account transaction,1008
+C1000531,Amazon,Grocery,607044,01-17-2025,Dmat Account transaction,1009
+C1000532,Gucci store,Luxury Shopping,2583335,01-16-2025,Debit card,1005
+C1000533,Trump dream housing,Investments,4523170,02-26-2024,Dmat Account transaction,1009
+C1000534,Trump dream housing,Investments,1685186,06-21-2025,Home Mortgage Account transaction,1007
+C1000535,Tesla,Gadgets,4120748,07-14-2025,Dmat Account transaction,1009
+C1000536,Tesla,Gadgets,1726584,11-02-2024,Cash,1006
+C1000537,Wallmart,Electronics,2661635,11-28-2024,Dmat Account transaction,1009
+C1000538,Investment Contribution,Investments,9031,12-28-2025,Dmat Account transaction,1009
+C1000539,Gucci store,Luxury Shopping,3720958,05-19-2024,Dmat Account transaction,1009
+C1000540,Apple,Gadgets,3669862,06-22-2024,Cash,1006
+C1000541,Apple,Gadgets,2923069,01-10-2024,Auto Loan Account transaction,1008
+C1000542,American Airlines,Travel,1423827,10-15-2025,Home Mortgage Account transaction,1007
+C1000543,Wallmart,Electronics,3853529,11-26-2024,Cash,1006
+C1000544,Wallmart,Electronics,1024711,08-25-2024,Auto Loan Account transaction,1008
+C1000545,Gucci store,Luxury Shopping,1992573,04-12-2025,Auto Loan Account transaction,1008
+C1000546,Gucci store,Luxury Shopping,65876,04-04-2024,Cash,1006
+C1000547,Gucci store,Luxury Shopping,3035318,09-03-2024,Dmat Account transaction,1009
+C1000548,Amazon,Grocery,1746389,09-18-2024,Cash,1006
+C1000549,Gucci store,Luxury Shopping,313869,11-12-2024,Dmat Account transaction,1009
+C1000550,Tesla,Gadgets,3017084,11-12-2025,Auto Loan Account transaction,1008
+C1000551,Amazon,Grocery,1858924,11-20-2025,Home Mortgage Account transaction,1007
+C1000552,Wallmart,Electronics,2297306,03-18-2024,Cash,1006
+C1000553,Investment Contribution,Investments,613843,07-07-2025,Home Mortgage Account transaction,1007
+C1000554,Trump dream housing,Investments,4120932,05-11-2024,Debit card,1005
+C1000555,Marketing Promotions,Branding And Social Media Adds,557204,09-17-2025,Dmat Account transaction,1009
+C1000556,Amazon,Grocery,3802113,09-30-2025,Dmat Account transaction,1009
+C1000557,American Airlines,Travel,653444,07-22-2024,Debit card,1005
+C1000558,Apple,Gadgets,1974045,03-21-2025,Auto Loan Account transaction,1008
+C1000559,Trump dream housing,Investments,1789045,07-18-2024,Home Mortgage Account transaction,1007
+C1000560,Marketing Promotions,Branding And Social Media Adds,4944240,06-19-2024,Credit Card,1002
+C1000561,Tesla,Gadgets,3413578,09-04-2025,Home Mortgage Account transaction,1008
+C1000562,Gucci store,Luxury Shopping,3184815,10-26-2025,Auto Loan Account transaction,1008
+C1000563,American Airlines,Travel,4059674,01-01-2025,Auto Loan Account transaction,1008
+C1000564,Trump dream housing,Investments,4028725,02-08-2025,Auto Loan Account transaction,1008
+C1000565,Tesla,Gadgets,456942,10-08-2025,Auto Loan Account transaction,1008
+C1000566,Stock investment,Investments,2662312,10-16-2025,Auto Loan Account transaction,1008
+C1000567,Marketing Promotions,Branding And Social Media Adds,1804446,10-20-2024,Auto Loan Account transaction,1008
+C1000568,Gucci store,Luxury Shopping,4890047,04-20-2025,Cash,1006
+C1000569,Marketing Promotions,Branding And Social Media Adds,4711120,04-22-2024,Dmat Account transaction,1009
+C1000570,Wallmart,Electronics,1429259,04-19-2025,Dmat Account transaction,1009
+C1000571,American Airlines,Travel,144325,09-23-2025,Home Mortgage Account transaction,1007
+C1000572,American Airlines,Travel,1300317,05-17-2025,Home Mortgage Account transaction,1007
+C1000573,Marketing Promotions,Branding And Social Media Adds,4650635,12-24-2025,Dmat Account transaction,1009
+C1000574,Amazon,Grocery,4626344,09-13-2024,Credit Card,1002
+C1000575,Wallmart,Electronics,1016934,02-06-2025,Auto Loan Account transaction,1008
+C1000576,Marketing Promotions,Branding And Social Media Adds,1503624,09-14-2025,Credit Card,1002
+C1000577,Apple,Gadgets,599921,03-14-2025,Dmat Account transaction,1009
+C1000578,Tesla,Gadgets,2219296,04-03-2025,Auto Loan Account transaction,1008
+C1000579,Marketing Promotions,Branding And Social Media Adds,3803889,07-08-2024,Credit Card,1002
+C1000580,Amazon,Grocery,1504588,12-18-2024,Auto Loan Account transaction,1008
+C1000581,Apple,Gadgets,3449213,09-06-2025,Credit Card,1002
+C1000582,Tesla,Gadgets,2611951,07-13-2024,Cash,1006
+C1000583,American Airlines,Travel,4324433,02-05-2024,Dmat Account transaction,1009
+C1000584,Wallmart,Electronics,3689810,12-10-2024,Cash,1006
+C1000585,Investment Contribution,Investments,2949177,06-30-2025,Debit card,1005
+C1000586,Stock investment,Investments,1200349,07-22-2025,Dmat Account transaction,1009
+C1000587,Stock investment,Investments,4886591,04-20-2025,Cash,1006
+C1000588,Stock investment,Investments,1310451,08-14-2024,Dmat Account transaction,1009
+C1000589,Amazon,Grocery,1160545,01-23-2024,Auto Loan Account transaction,1008
+C1000590,Wallmart,Electronics,566844,02-17-2024,Auto Loan Account transaction,1008
+C1000591,Marketing Promotions,Branding And Social Media Adds,2885288,11-07-2025,Credit Card,1002
+C1000592,Investment Contribution,Investments,3243610,02-06-2025,Cash,1006
+C1000593,Apple,Gadgets,2302120,09-24-2024,Auto Loan Account transaction,1008
+C1000594,Wallmart,Electronics,1928655,12-21-2024,Home Mortgage Account transaction,1007
+C1000595,Tesla,Gadgets,1103746,08-07-2024,Auto Loan Account transaction,1008
+C1000596,Investment Contribution,Investments,4983547,08-03-2024,Dmat Account transaction,1009
+C1000597,American Airlines,Travel,4115961,04-02-2024,Cash,1006
+C1000598,Trump dream housing,Investments,3989545,05-21-2024,Cash,1006
+C1000599,Tesla,Gadgets,2899027,04-27-2024,Dmat Account transaction,1009
+C1000600,Wallmart,Electronics,2505400,03-20-2025,Credit Card,1002
+C1000601,Investment Contribution,Investments,1499636,07-28-2024,Home Mortgage Account transaction,1007
+C1000602,Tesla,Gadgets,4582310,03-09-2025,Cash,1006
+C1000603,Amazon,Grocery,1918558,05-09-2025,Dmat Account transaction,1009
+C1000604,Stock investment,Investments,2323062,08-16-2024,Credit Card,1002
+C1000605,Stock investment,Investments,1402608,02-05-2024,Credit Card,1002
+C1000606,Gucci store,Luxury Shopping,2658230,12-05-2025,Credit Card,1002
+C1000607,Wallmart,Electronics,4211647,03-24-2025,Cash,1006
+C1000608,Gucci store,Luxury Shopping,3696473,11-28-2025,Auto Loan Account transaction,1008
+C1000609,Stock investment,Investments,2443261,06-01-2024,Auto Loan Account transaction,1008
+C1000129,Stock investment,Investments,4762407,09-02-2024,Debit card,1005
+C1000565,Marketing Promotions,Branding And Social Media Adds,2691392,01-07-2024,Auto Loan Account transaction,1008
+C1000090,Apple,Gadgets,1122512,08-06-2024,Home Mortgage Account transaction,1007
+C1000201,Stock investment,Investments,2289872,12-02-2025,Auto Loan Account transaction,1008
+C1000325,Marketing Promotions,Branding And Social Media Adds,2421215,03-31-2024,Auto Loan Account transaction,1008
+C1000471,Trump dream housing,Investments,1891566,08-05-2025,Credit Card,1002
+C1000127,Stock investment,Investments,4651224,10-17-2024,Dmat Account transaction,1009
+C1000027,Amazon,Grocery,2667558,12-29-2025,Home Mortgage Account transaction,1007
+C1000228,Investment Contribution,Investments,2719742,11-13-2025,Home Mortgage Account transaction,1007
+C1000041,Amazon,Grocery,3602935,09-26-2024,Home Mortgage Account transaction,1007
+C1000199,Gucci store,Luxury Shopping,3665712,04-08-2024,Cash,1006
+C1000466,Gucci store,Luxury Shopping,3173365,07-12-2025,Credit Card,1002
+C1000455,Marketing Promotions,Branding And Social Media Adds,1984327,08-21-2024,Credit Card,1002
+C1000225,Investment Contribution,Investments,71962,12-24-2024,Home Mortgage Account transaction,1007
+C1000146,Marketing Promotions,Branding And Social Media Adds,2286550,06-10-2025,Debit card,1005
+C1000075,Marketing Promotions,Branding And Social Media Adds,4444966,02-21-2024,Dmat Account transaction,1009
+C1000290,Gucci store,Luxury Shopping,4379932,01-01-2025,Dmat Account transaction,1009
+C1000433,Stock investment,Investments,4640864,11-07-2025,Cash,1006
+C1000548,Amazon,Grocery,4768809,09-05-2024,Debit card,1005
+C1000145,Gucci store,Luxury Shopping,904716,09-29-2025,Debit card,1005
+C1000568,Wallmart,Electronics,984770,01-13-2025,Debit card,1005
+C1000126,Marketing Promotions,Branding And Social Media Adds,409471,07-06-2024,Auto Loan Account transaction,1008
+C1000059,Amazon,Grocery,700662,10-24-2024,Auto Loan Account transaction,1008
+C1000123,Tesla,Gadgets,4282153,05-05-2025,Dmat Account transaction,1009
+C1000042,Gucci store,Luxury Shopping,3171825,10-23-2025,Home Mortgage Account transaction,1007
+C1000166,Amazon,Grocery,3190782,02-16-2024,Dmat Account transaction,1009
+C1000588,American Airlines,Travel,921029,06-15-2025,Dmat Account transaction,1009
+C1000441,Stock investment,Investments,1460128,05-30-2024,Dmat Account transaction,1009
+C1000365,Stock investment,Investments,17950,11-13-2025,Cash,1006
+C1000085,Apple,Gadgets,733139,10-20-2025,Home Mortgage Account transaction,1007
+C1000397,Stock investment,Investments,110296,12-08-2024,Dmat Account transaction,1009
+C1000271,Trump dream housing,Investments,2401744,10-29-2024,Auto Loan Account transaction,1008
+C1000340,Investment Contribution,Investments,150204,03-19-2024,Cash,1006
+C1000134,Tesla,Gadgets,3695192,12-15-2024,Dmat Account transaction,1009
+C1000305,Trump dream housing,Investments,4105182,02-14-2025,Debit card,1005
+C1000036,Investment Contribution,Investments,3643846,08-22-2025,Cash,1006
+C1000486,Stock investment,Investments,3032303,11-06-2025,Cash,1006
+C1000551,Wallmart,Electronics,348606,06-02-2025,Cash,1006
+C1000270,Wallmart,Electronics,3270948,03-07-2025,Home Mortgage Account transaction,1007
+C1000519,Stock investment,Investments,3924780,07-17-2025,Credit Card,1002
+C1000220,Amazon,Grocery,2388829,07-16-2025,Debit card,1005
+C1000192,Wallmart,Electronics,2213263,09-13-2024,Home Mortgage Account transaction,1007
+C1000264,Stock investment,Investments,417322,08-18-2024,Credit Card,1002
+C1000460,Marketing Promotions,Branding And Social Media Adds,3989200,07-28-2025,Cash,1006
+C1000452,Trump dream housing,Investments,1842278,04-22-2024,Auto Loan Account transaction,1008
+C1000165,Apple,Gadgets,4861992,04-03-2024,Home Mortgage Account transaction,1007
+C1000250,American Airlines,Travel,1672116,01-17-2024,Debit card,1005
+C1000120,Tesla,Gadgets,4931333,05-08-2025,Cash,1006
+C1000579,Apple,Gadgets,3992021,12-01-2024,Cash,1006
+C1000281,Stock investment,Investments,472741,01-01-2025,Credit Card,1002
+C1000094,Trump dream housing,Investments,2233556,09-12-2025,Auto Loan Account transaction,1008
+C1000101,Wallmart,Electronics,3437823,03-25-2024,Debit card,1005
+C1000189,Stock investment,Investments,2075539,03-15-2025,Cash,1006
+C1000057,Investment Contribution,Investments,2564524,08-24-2025,Auto Loan Account transaction,1008
+C1000265,Gucci store,Luxury Shopping,4259465,12-06-2025,Home Mortgage Account transaction,1007
+C1000207,Gucci store,Luxury Shopping,144893,05-15-2025,Debit card,1005
+C1000053,Trump dream housing,Investments,4331392,09-02-2024,Home Mortgage Account transaction,1007
+C1000269,Tesla,Gadgets,3895849,05-18-2025,Debit card,1005
+C1000102,Stock investment,Investments,3422177,03-31-2025,Debit card,1005
+C1000548,Amazon,Grocery,373875,05-31-2024,Home Mortgage Account transaction,1007
+C1000057,Stock investment,Investments,3735667,01-07-2025,Auto Loan Account transaction,1008
+C1000380,Wallmart,Electronics,2088557,12-02-2025,Home Mortgage Account transaction,1007
+C1000442,Gucci store,Luxury Shopping,2051004,07-18-2025,Cash,1006
+C1000199,American Airlines,Travel,4237668,06-01-2024,Dmat Account transaction,1009
+C1000084,Gucci store,Luxury Shopping,1367606,03-31-2025,Credit Card,1002
+C1000208,Marketing Promotions,Branding And Social Media Adds,3747295,09-09-2025,Cash,1006
+C1000045,American Airlines,Travel,4751237,12-10-2024,Cash,1006
+C1000485,Stock investment,Investments,2489929,11-05-2025,Dmat Account transaction,1009
+C1000311,Trump dream housing,Investments,4127413,10-09-2025,Cash,1006
+C1000506,Wallmart,Electronics,2187747,05-27-2025,Cash,1006
+C1000088,Marketing Promotions,Branding And Social Media Adds,4292972,02-18-2024,Home Mortgage Account transaction,1007
+C1000276,Marketing Promotions,Branding And Social Media Adds,2753577,11-11-2024,Credit Card,1002
+C1000406,American Airlines,Travel,2236178,12-20-2025,Credit Card,1002
+C1000057,American Airlines,Travel,4960375,07-18-2024,Credit Card,1002
+C1000557,American Airlines,Travel,829782,01-29-2024,Cash,1006
+C1000135,Tesla,Gadgets,147298,09-18-2025,Cash,1006
+C1000563,Wallmart,Electronics,3593186,07-30-2025,Dmat Account transaction,1009
+C1000260,Apple,Gadgets,3292096,08-01-2024,Dmat Account transaction,1009
+C1000081,American Airlines,Travel,690651,02-10-2025,Dmat Account transaction,1009
+C1000572,Stock investment,Investments,1206239,09-11-2025,Cash,1006
+C1000039,Wallmart,Electronics,3242301,02-18-2025,Cash,1006
+C1000389,Investment Contribution,Investments,3359093,11-02-2025,Cash,1006
+C1000146,Gucci store,Luxury Shopping,3899226,04-30-2025,Auto Loan Account transaction,1008
+C1000291,Gucci store,Luxury Shopping,2270428,11-03-2025,Debit card,1005
+C1000146,Marketing Promotions,Branding And Social Media Adds,2885825,07-20-2024,Home Mortgage Account transaction,1007
+C1000604,Marketing Promotions,Branding And Social Media Adds,4629454,03-12-2024,Dmat Account transaction,1009
+C1000470,Investment Contribution,Investments,4394318,04-14-2025,Auto Loan Account transaction,1008
+C1000261,Stock investment,Investments,4890247,11-03-2024,Dmat Account transaction,1009
+C1000045,Marketing Promotions,Branding And Social Media Adds,2397587,07-23-2024,Debit card,1005
+C1000317,Stock investment,Investments,447329,07-05-2025,Credit Card,1002
+C1000231,Trump dream housing,Investments,917174,02-11-2025,Auto Loan Account transaction,1008
+C1000285,Investment Contribution,Investments,424107,12-19-2024,Debit card,1005
+C1000248,Investment Contribution,Investments,4586589,09-11-2024,Credit Card,1002
+C1000011,Apple,Gadgets,2752006,06-03-2025,Debit card,1005
+C1000319,Marketing Promotions,Branding And Social Media Adds,4515093,12-28-2024,Home Mortgage Account transaction,1007
+C1000085,Tesla,Gadgets,1054243,08-06-2024,Credit Card,1002
+C1000056,Wallmart,Electronics,766806,01-27-2025,Credit Card,1002
+C1000401,Tesla,Gadgets,2031618,12-02-2024,Home Mortgage Account transaction,1008
+C1000264,American Airlines,Travel,2741383,11-19-2024,Auto Loan Account transaction,1008
+C1000284,Marketing Promotions,Branding And Social Media Adds,3959766,10-29-2025,Debit card,1005
+C1000082,Apple,Gadgets,3890711,09-06-2024,Auto Loan Account transaction,1008
+C1000459,Apple,Gadgets,3838357,10-11-2024,Debit card,1005
+C1000364,Trump dream housing,Investments,2261797,09-25-2024,Debit card,1005
+C1000398,Amazon,Grocery,3291439,07-26-2024,Credit Card,1002
+C1000409,Trump dream housing,Investments,3427586,09-25-2024,Credit Card,1002
+C1000387,American Airlines,Travel,3913721,06-26-2024,Home Mortgage Account transaction,1007
+C1000485,Apple,Gadgets,2467922,01-01-2025,Cash,1006
+C1000190,Trump dream housing,Investments,222694,02-11-2025,Auto Loan Account transaction,1008
+C1000129,American Airlines,Travel,4754458,06-13-2025,Auto Loan Account transaction,1008
+C1000165,Wallmart,Electronics,1333013,04-18-2024,Cash,1006
+C1000295,Trump dream housing,Investments,3705491,07-03-2024,Dmat Account transaction,1009
+C1000268,Investment Contribution,Investments,527262,01-07-2024,Credit Card,1002
+C1000413,Gucci store,Luxury Shopping,4382921,10-08-2025,Home Mortgage Account transaction,1007
+C1000503,Wallmart,Electronics,727194,06-04-2025,Cash,1006
+C1000258,Investment Contribution,Investments,3320327,02-29-2024,Dmat Account transaction,1009
+C1000484,Tesla,Gadgets,4003026,11-13-2024,Dmat Account transaction,1009
+C1000229,Stock investment,Investments,1607282,09-17-2024,Auto Loan Account transaction,1008
+C1000407,Amazon,Grocery,1122219,11-29-2025,Cash,1006
+C1000035,Trump dream housing,Investments,1044161,04-26-2025,Cash,1006
+C1000074,Apple,Gadgets,4964726,10-18-2024,Cash,1006
+C1000405,Apple,Gadgets,1209256,12-10-2025,Debit card,1005
+C1000565,Trump dream housing,Investments,4008187,05-09-2024,Auto Loan Account transaction,1008
+C1000258,Amazon,Grocery,4218672,03-13-2024,Auto Loan Account transaction,1008
+C1000602,Wallmart,Electronics,518595,01-16-2025,Auto Loan Account transaction,1008
+C1000367,Apple,Gadgets,830082,08-22-2024,Debit card,1005
+C1000157,American Airlines,Travel,3713484,08-28-2024,Debit card,1005
+C1000238,Gucci store,Luxury Shopping,2184046,01-16-2025,Cash,1006
+C1000141,Trump dream housing,Investments,4289490,09-21-2025,Credit Card,1002
+C1000100,Apple,Gadgets,3723591,08-29-2024,Debit card,1005
+C1000163,Marketing Promotions,Branding And Social Media Adds,3320049,11-02-2024,Credit Card,1002
+C1000233,Amazon,Grocery,2932659,11-13-2024,Credit Card,1002
+C1000261,Marketing Promotions,Branding And Social Media Adds,446605,09-15-2024,Credit Card,1002
+C1000134,Marketing Promotions,Branding And Social Media Adds,4259348,06-17-2024,Auto Loan Account transaction,1008
+C1000604,Apple,Gadgets,4611312,05-04-2024,Dmat Account transaction,1009
+C1000022,Stock investment,Investments,4028499,07-19-2024,Cash,1006
+C1000337,Gucci store,Luxury Shopping,4846251,08-30-2025,Debit card,1005
+C1000375,Investment Contribution,Investments,1523888,08-25-2024,Debit card,1005
+C1000070,Stock investment,Investments,1492422,07-16-2025,Auto Loan Account transaction,1008
+C1000055,Marketing Promotions,Branding And Social Media Adds,4351728,06-07-2025,Home Mortgage Account transaction,1007
+C1000203,Stock investment,Investments,1538027,12-17-2024,Home Mortgage Account transaction,1007
+C1000232,American Airlines,Travel,2263004,06-24-2025,Home Mortgage Account transaction,1007
+C1000441,Marketing Promotions,Branding And Social Media Adds,1057395,11-14-2025,Home Mortgage Account transaction,1007
+C1000390,Wallmart,Electronics,2503778,06-14-2025,Dmat Account transaction,1009
+C1000599,Amazon,Grocery,3425066,07-26-2025,Cash,1006
+C1000279,Investment Contribution,Investments,2352376,04-12-2025,Dmat Account transaction,1009
+C1000396,Investment Contribution,Investments,3065317,10-29-2025,Home Mortgage Account transaction,1007
+C1000267,Amazon,Grocery,422867,07-25-2025,Debit card,1005
+C1000407,Tesla,Gadgets,4047153,09-05-2025,Credit Card,1002
+C1000389,Gucci store,Luxury Shopping,2512137,10-03-2025,Cash,1006
+C1000067,American Airlines,Travel,4603064,06-07-2024,Credit Card,1002
+C1000466,American Airlines,Travel,1424988,04-29-2024,Debit card,1005
+C1000556,Stock investment,Investments,3301607,12-26-2024,Credit Card,1002
+C1000189,American Airlines,Travel,4898967,12-25-2025,Auto Loan Account transaction,1008
+C1000400,Wallmart,Electronics,4977476,10-28-2024,Credit Card,1002
+C1000072,American Airlines,Travel,1126964,01-24-2024,Cash,1006
+C1000302,Gucci store,Luxury Shopping,2707561,05-07-2025,Home Mortgage Account transaction,1007
+C1000319,Trump dream housing,Investments,1191179,01-21-2024,Credit Card,1002
+C1000365,Investment Contribution,Investments,48779,12-27-2025,Auto Loan Account transaction,1008
+C1000160,Tesla,Gadgets,4340411,03-31-2024,Dmat Account transaction,1009
+C1000087,Wallmart,Electronics,3184680,12-09-2025,Debit card,1005
+C1000357,Apple,Gadgets,1062523,10-02-2024,Cash,1006
+C1000052,Amazon,Grocery,4427907,02-21-2025,Debit card,1005
+C1000520,Tesla,Gadgets,804487,07-02-2024,Cash,1006
+C1000313,Trump dream housing,Investments,1746829,04-05-2025,Cash,1006
+C1000570,Apple,Gadgets,2358195,11-30-2025,Dmat Account transaction,1009
+C1000044,Amazon,Grocery,2607353,06-03-2025,Credit Card,1002
+C1000189,Investment Contribution,Investments,3781182,06-05-2025,Debit card,1005
+C1000051,Tesla,Gadgets,4061043,08-10-2024,Cash,1006
+C1000088,Gucci store,Luxury Shopping,840030,07-09-2024,Cash,1006
+C1000182,Gucci store,Luxury Shopping,210232,02-27-2024,Credit Card,1002
+C1000244,Stock investment,Investments,3593511,05-09-2024,Auto Loan Account transaction,1008
+C1000407,Tesla,Gadgets,4353150,09-27-2024,Home Mortgage Account transaction,1008
+C1000408,Wallmart,Electronics,4747055,08-07-2024,Cash,1006
+C1000370,Apple,Gadgets,1649006,06-01-2024,Cash,1006
+C1000221,Amazon,Grocery,326287,05-04-2024,Home Mortgage Account transaction,1007
+C1000034,Amazon,Grocery,2298868,10-07-2025,Credit Card,1002
+C1000068,Marketing Promotions,Branding And Social Media Adds,4275876,01-17-2024,Dmat Account transaction,1009
+C1000337,Amazon,Grocery,1409309,06-15-2024,Home Mortgage Account transaction,1007
+C1000436,Amazon,Grocery,3287436,08-22-2025,Cash,1006
+C1000063,Wallmart,Electronics,3599774,09-08-2025,Auto Loan Account transaction,1008
+C1000552,Investment Contribution,Investments,2443480,04-25-2025,Debit card,1005
+C1000224,Stock investment,Investments,4610419,08-12-2025,Home Mortgage Account transaction,1007
+C1000607,Gucci store,Luxury Shopping,2674072,02-13-2025,Debit card,1005
+C1000469,American Airlines,Travel,2425758,09-01-2024,Auto Loan Account transaction,1008
+C1000137,Tesla,Gadgets,3821989,09-14-2025,Credit Card,1002
+C1000409,Tesla,Gadgets,206177,11-05-2025,Home Mortgage Account transaction,1008
+C1000287,Wallmart,Electronics,4689322,03-04-2025,Cash,1006
+C1000162,Amazon,Grocery,3564543,11-26-2024,Dmat Account transaction,1009
+C1000284,Amazon,Grocery,1857587,12-17-2024,Auto Loan Account transaction,1008
+C1000579,Marketing Promotions,Branding And Social Media Adds,4152545,01-27-2024,Credit Card,1002
+C1000366,Trump dream housing,Investments,101365,10-23-2025,Dmat Account transaction,1009
+C1000511,Tesla,Gadgets,418552,03-08-2024,Debit card,1005
+C1000115,Amazon,Grocery,4129034,12-28-2025,Credit Card,1002
+C1000574,Amazon,Grocery,4399438,12-11-2025,Credit Card,1002
+C1000482,Tesla,Gadgets,2252714,08-22-2025,Credit Card,1002
+C1000595,Apple,Gadgets,2856795,05-02-2024,Debit card,1005
+C1000109,Apple,Gadgets,61128,05-11-2025,Auto Loan Account transaction,1008
+C1000483,Stock investment,Investments,2563923,11-25-2025,Home Mortgage Account transaction,1007
+C1000566,Stock investment,Investments,1417684,07-28-2024,Home Mortgage Account transaction,1007
+C1000269,Apple,Gadgets,4124177,01-11-2025,Cash,1006
+C1000170,Marketing Promotions,Branding And Social Media Adds,658266,06-18-2025,Credit Card,1002
+C1000436,Investment Contribution,Investments,3618860,06-01-2024,Debit card,1005
+C1000560,Gucci store,Luxury Shopping,3319032,06-25-2025,Debit card,1005
+C1000383,Wallmart,Electronics,2923891,04-27-2025,Dmat Account transaction,1009
+C1000105,Apple,Gadgets,1128202,03-09-2025,Cash,1006
+C1000472,Trump dream housing,Investments,666968,02-27-2025,Dmat Account transaction,1009
+C1000369,Wallmart,Electronics,4248524,01-15-2024,Auto Loan Account transaction,1008
+C1000401,Trump dream housing,Investments,4178265,07-27-2025,Credit Card,1002
+C1000373,Tesla,Gadgets,4873733,09-16-2024,Home Mortgage Account transaction,1008
+C1000225,Amazon,Grocery,824196,11-15-2025,Home Mortgage Account transaction,1007
+C1000579,Investment Contribution,Investments,203487,07-30-2025,Home Mortgage Account transaction,1007
+C1000363,American Airlines,Travel,534060,05-11-2024,Dmat Account transaction,1009
+C1000119,American Airlines,Travel,1844817,01-23-2025,Cash,1006
+C1000561,American Airlines,Travel,2308432,10-10-2024,Dmat Account transaction,1009
+C1000322,American Airlines,Travel,3456202,03-04-2024,Auto Loan Account transaction,1008
+C1000500,Trump dream housing,Investments,1966629,10-09-2025,Debit card,1005
+C1000046,Investment Contribution,Investments,3892894,10-31-2024,Home Mortgage Account transaction,1007
+C1000400,Wallmart,Electronics,3748364,09-22-2024,Home Mortgage Account transaction,1007
+C1000275,Investment Contribution,Investments,3115702,07-04-2024,Dmat Account transaction,1009
+C1000392,Apple,Gadgets,2246157,12-29-2024,Cash,1006
+C1000068,Tesla,Gadgets,1189444,04-12-2025,Credit Card,1002
+C1000561,Marketing Promotions,Branding And Social Media Adds,1254775,04-26-2025,Credit Card,1002
+C1000288,Amazon,Grocery,235768,09-26-2024,Dmat Account transaction,1009
+C1000561,Apple,Gadgets,2631029,01-30-2025,Auto Loan Account transaction,1008
+C1000519,Amazon,Grocery,4499743,07-19-2025,Cash,1006
+C1000215,Trump dream housing,Investments,3028946,01-14-2024,Debit card,1005
+C1000107,Wallmart,Electronics,2094530,10-15-2024,Home Mortgage Account transaction,1007
+C1000607,Apple,Gadgets,2358600,01-22-2024,Dmat Account transaction,1009
+C1000135,Trump dream housing,Investments,1828582,05-18-2024,Dmat Account transaction,1009
+C1000032,Investment Contribution,Investments,3233706,03-20-2024,Dmat Account transaction,1009
+C1000170,American Airlines,Travel,4515139,10-21-2024,Credit Card,1002
+C1000537,Trump dream housing,Investments,4672046,12-07-2024,Cash,1006
+C1000449,Stock investment,Investments,3223792,06-09-2024,Auto Loan Account transaction,1008
+C1000454,Apple,Gadgets,3172279,03-06-2025,Home Mortgage Account transaction,1007
+C1000211,Investment Contribution,Investments,1930907,10-14-2025,Home Mortgage Account transaction,1007
+C1000061,Apple,Gadgets,3267247,11-09-2025,Credit Card,1002
+C1000541,Tesla,Gadgets,1143928,02-06-2025,Dmat Account transaction,1009
+C1000527,American Airlines,Travel,4027496,03-13-2025,Auto Loan Account transaction,1008
+C1000165,Investment Contribution,Investments,3284292,11-30-2024,Cash,1006
+C1000292,Marketing Promotions,Branding And Social Media Adds,142742,09-19-2025,Auto Loan Account transaction,1008
+C1000143,Amazon,Grocery,4815609,09-27-2025,Dmat Account transaction,1009
+C1000162,Wallmart,Electronics,3016446,11-03-2025,Cash,1006
+C1000377,Marketing Promotions,Branding And Social Media Adds,4469366,01-19-2025,Debit card,1005
+C1000496,Wallmart,Electronics,2460337,09-08-2024,Debit card,1005
+C1000070,Tesla,Gadgets,4725754,02-18-2025,Dmat Account transaction,1009
+C1000458,Marketing Promotions,Branding And Social Media Adds,2578050,05-16-2025,Auto Loan Account transaction,1008
+C1000083,Investment Contribution,Investments,1607136,01-01-2024,Auto Loan Account transaction,1008
+C1000480,Stock investment,Investments,3593411,08-07-2025,Credit Card,1002
+C1000497,Gucci store,Luxury Shopping,3294950,03-16-2024,Credit Card,1002
+C1000209,Trump dream housing,Investments,852745,03-21-2024,Debit card,1005
+C1000160,Apple,Gadgets,1831699,03-11-2024,Debit card,1005
+C1000282,American Airlines,Travel,1761337,08-04-2025,Auto Loan Account transaction,1008
+C1000149,Amazon,Grocery,3154906,07-05-2025,Auto Loan Account transaction,1008
+C1000095,Amazon,Grocery,4989581,01-29-2024,Debit card,1005
+C1000127,Investment Contribution,Investments,4152517,09-18-2024,Dmat Account transaction,1009
+C1000205,Stock investment,Investments,4337628,05-05-2025,Debit card,1005
+C1000548,American Airlines,Travel,3243030,02-05-2024,Debit card,1005
+C1000112,Stock investment,Investments,1805222,09-07-2025,Cash,1006
+C1000228,Amazon,Grocery,4149531,06-20-2025,Auto Loan Account transaction,1008
+C1000355,Amazon,Grocery,997350,06-27-2024,Credit Card,1002
+C1000570,Tesla,Gadgets,3970402,08-26-2025,Debit card,1005
+C1000526,Investment Contribution,Investments,1371753,12-13-2025,Auto Loan Account transaction,1008
+C1000138,Tesla,Gadgets,3060024,04-12-2024,Auto Loan Account transaction,1008
+C1000481,Apple,Gadgets,4231590,10-13-2025,Credit Card,1002
+C1000108,Tesla,Gadgets,3081479,06-09-2024,Cash,1006
+C1000338,Wallmart,Electronics,4179308,12-21-2024,Dmat Account transaction,1009
+C1000028,Marketing Promotions,Branding And Social Media Adds,355555,08-03-2025,Debit card,1005
+C1000426,Amazon,Grocery,3861783,05-23-2025,Home Mortgage Account transaction,1007
+C1000346,Amazon,Grocery,229630,07-08-2025,Auto Loan Account transaction,1008
+C1000029,Investment Contribution,Investments,4939929,06-10-2024,Cash,1006
+C1000470,Stock investment,Investments,236071,01-10-2025,Auto Loan Account transaction,1008
+C1000366,Stock investment,Investments,4405767,12-25-2024,Cash,1006
+C1000017,Gucci store,Luxury Shopping,1091492,07-29-2025,Debit card,1005
+C1000175,Stock investment,Investments,276191,07-10-2024,Credit Card,1002
+C1000440,Wallmart,Electronics,562257,03-22-2025,Auto Loan Account transaction,1008
+C1000366,Amazon,Grocery,1456167,07-28-2024,Cash,1006
+C1000403,Investment Contribution,Investments,4864550,10-27-2025,Dmat Account transaction,1009
+C1000281,Marketing Promotions,Branding And Social Media Adds,3478404,08-23-2024,Home Mortgage Account transaction,1007
+C1000173,Amazon,Grocery,1245474,12-14-2025,Debit card,1005
+C1000060,Marketing Promotions,Branding And Social Media Adds,3129308,03-15-2025,Cash,1006
+C1000155,Tesla,Gadgets,4728299,12-12-2024,Cash,1006
+C1000567,Stock investment,Investments,4783582,07-02-2024,Dmat Account transaction,1009
+C1000382,Marketing Promotions,Branding And Social Media Adds,1907668,10-17-2025,Auto Loan Account transaction,1008
+C1000125,Trump dream housing,Investments,4999749,12-11-2025,Dmat Account transaction,1009
+C1000386,Investment Contribution,Investments,3410306,03-21-2024,Dmat Account transaction,1009
+C1000520,Wallmart,Electronics,524925,12-03-2025,Credit Card,1002
+C1000283,Amazon,Grocery,1666885,06-06-2024,Debit card,1005
+C1000035,Wallmart,Electronics,1786874,07-28-2025,Debit card,1005
+C1000512,Amazon,Grocery,701146,11-08-2025,Credit Card,1002
+C1000408,American Airlines,Travel,1682126,06-27-2024,Dmat Account transaction,1009
+C1000213,Trump dream housing,Investments,3276486,06-11-2025,Credit Card,1002
+C1000425,Marketing Promotions,Branding And Social Media Adds,3527862,04-03-2024,Debit card,1005
+C1000479,American Airlines,Travel,3667039,02-13-2024,Credit Card,1002
+C1000499,Stock investment,Investments,3491757,05-05-2025,Cash,1006
+C1000397,Tesla,Gadgets,3149035,01-03-2024,Credit Card,1002
+C1000259,Gucci store,Luxury Shopping,279337,01-08-2024,Dmat Account transaction,1009
+C1000487,Amazon,Grocery,1329123,12-24-2025,Home Mortgage Account transaction,1007
+C1000275,Stock investment,Investments,1347508,06-20-2025,Credit Card,1002
+C1000019,Amazon,Grocery,200129,01-11-2025,Dmat Account transaction,1009
+C1000168,Trump dream housing,Investments,4471827,08-02-2025,Cash,1006
+C1000248,Tesla,Gadgets,3305552,05-12-2024,Credit Card,1002
+C1000099,Amazon,Grocery,972760,01-01-2025,Dmat Account transaction,1009
+C1000563,Trump dream housing,Investments,3421070,01-26-2025,Cash,1006
+C1000442,American Airlines,Travel,3700470,11-22-2024,Dmat Account transaction,1009
+C1000590,Tesla,Gadgets,3070690,08-14-2025,Auto Loan Account transaction,1008
+C1000324,Gucci store,Luxury Shopping,3850880,11-17-2025,Home Mortgage Account transaction,1007
+C1000092,Stock investment,Investments,726083,03-30-2025,Dmat Account transaction,1009
+C1000066,Tesla,Gadgets,4538538,01-13-2024,Cash,1006
+C1000357,Trump dream housing,Investments,2448260,11-05-2025,Cash,1006
+C1000347,Apple,Gadgets,3231036,06-09-2025,Home Mortgage Account transaction,1007
+C1000571,Marketing Promotions,Branding And Social Media Adds,3471685,07-06-2024,Home Mortgage Account transaction,1007
+C1000235,Investment Contribution,Investments,2662573,09-25-2025,Debit card,1005
+C1000409,Amazon,Grocery,1292374,02-18-2025,Auto Loan Account transaction,1008
+C1000354,Marketing Promotions,Branding And Social Media Adds,2207708,09-04-2025,Credit Card,1002
+C1000072,Wallmart,Electronics,165138,09-18-2025,Debit card,1005
+C1000566,Wallmart,Electronics,3844693,07-22-2024,Home Mortgage Account transaction,1007
+C1000159,Gucci store,Luxury Shopping,4790086,01-10-2025,Home Mortgage Account transaction,1007
+C1000443,Wallmart,Electronics,192511,06-10-2025,Home Mortgage Account transaction,1007
+C1000155,Stock investment,Investments,3332320,08-14-2024,Cash,1006
+C1000579,Apple,Gadgets,797954,04-26-2025,Home Mortgage Account transaction,1007
+C1000582,Apple,Gadgets,2206163,11-04-2025,Dmat Account transaction,1009
+C1000194,Stock investment,Investments,3142859,04-18-2024,Cash,1006
+C1000493,Wallmart,Electronics,2011604,07-30-2024,Auto Loan Account transaction,1008
+C1000226,Stock investment,Investments,375671,09-07-2025,Credit Card,1002
+C1000207,Marketing Promotions,Branding And Social Media Adds,2240844,03-09-2024,Home Mortgage Account transaction,1007
+C1000286,Marketing Promotions,Branding And Social Media Adds,450207,05-31-2025,Dmat Account transaction,1009
+C1000029,Wallmart,Electronics,1673857,02-27-2024,Cash,1006
+C1000216,Stock investment,Investments,2349868,08-13-2025,Home Mortgage Account transaction,1007
+C1000218,Tesla,Gadgets,4007453,01-30-2025,Cash,1006
+C1000426,Investment Contribution,Investments,2284887,06-01-2025,Dmat Account transaction,1009
+C1000403,American Airlines,Travel,3376799,10-05-2024,Credit Card,1003
+C1000175,Apple,Gadgets,4995093,08-11-2025,Debit card,1005
+C1000218,Apple,Gadgets,3314015,02-03-2025,Credit Card,1003
+C1000567,American Airlines,Travel,4516051,07-11-2025,Debit card,1005
+C1000202,Gucci store,Luxury Shopping,64264,11-25-2025,Debit card,1005
+C1000251,Tesla,Gadgets,950520,10-04-2025,Credit Card,1003
+C1000163,American Airlines,Travel,2155779,12-29-2025,Credit Card,1003
+C1000559,Tesla,Gadgets,3359581,11-13-2024,Home Mortgage Account transaction,1008
+C1000516,Marketing Promotions,Branding And Social Media Adds,3561167,04-11-2024,Debit card,1005
+C1000447,Tesla,Gadgets,3770691,03-16-2024,Credit Card,1003
+C1000282,Trump dream housing,Investments,1833565,10-25-2025,Cash,1006
+C1000317,Marketing Promotions,Branding And Social Media Adds,4674289,04-08-2025,Cash,1006
+C1000564,Investment Contribution,Investments,2192506,09-08-2024,Home Mortgage Account transaction,1007
+C1000430,Gucci store,Luxury Shopping,4783425,11-11-2025,Cash,1006
+C1000527,Investment Contribution,Investments,817343,02-08-2025,Debit card,1005
+C1000399,Marketing Promotions,Branding And Social Media Adds,4106523,12-14-2025,Cash,1006
+C1000544,Wallmart,Electronics,3999474,01-05-2025,Credit Card,1003
+C1000220,Apple,Gadgets,2206272,10-11-2025,Debit card,1005
+C1000325,Apple,Gadgets,617617,02-26-2024,Debit card,1005
+C1000277,Marketing Promotions,Branding And Social Media Adds,883419,05-23-2024,Home Mortgage Account transaction,1007
+C1000436,Marketing Promotions,Branding And Social Media Adds,3490277,06-16-2024,Credit Card,1003
+C1000057,Tesla,Gadgets,1158247,02-14-2025,Dmat Account transaction,1009
+C1000038,Stock investment,Investments,1691221,03-16-2025,Debit card,1005
+C1000571,American Airlines,Travel,1234171,08-25-2024,Cash,1006
+C1000371,Stock investment,Investments,2356682,05-09-2025,Cash,1006
+C1000541,Wallmart,Electronics,2334086,01-25-2025,Home Mortgage Account transaction,1007
+C1000350,Marketing Promotions,Branding And Social Media Adds,3775126,11-12-2025,Credit Card,1003
+C1000012,Amazon,Grocery,4312899,11-23-2024,Auto Loan Account transaction,1008
+C1000592,Amazon,Grocery,765025,08-23-2024,Cash,1006
+C1000494,Tesla,Gadgets,4590339,01-11-2024,Auto Loan Account transaction,1008
+C1000161,Amazon,Grocery,2457783,07-18-2024,Credit Card,1003
+C1000497,Trump dream housing,Investments,2361390,05-01-2025,Cash,1006
+C1000514,Stock investment,Investments,4926051,11-14-2025,Cash,1006
+C1000571,American Airlines,Travel,3672364,06-02-2024,Credit Card,1003
+C1000606,American Airlines,Travel,235488,03-01-2024,Debit card,1005
+C1000473,Apple,Gadgets,1558041,05-09-2025,Auto Loan Account transaction,1008
+C1000046,Marketing Promotions,Branding And Social Media Adds,2048332,10-25-2025,Home Mortgage Account transaction,1007
+C1000140,Wallmart,Electronics,4447033,07-21-2025,Auto Loan Account transaction,1008
+C1000237,Investment Contribution,Investments,3600051,01-17-2025,Home Mortgage Account transaction,1007
+C1000225,American Airlines,Travel,3407672,01-23-2025,Cash,1006
+C1000517,Gucci store,Luxury Shopping,3509652,08-30-2024,Cash,1006
+C1000474,American Airlines,Travel,4217714,12-10-2024,Home Mortgage Account transaction,1007
+C1000575,Stock investment,Investments,2443979,12-22-2025,Credit Card,1003
+C1000046,Amazon,Grocery,4668734,09-12-2024,Debit card,1005
+C1000109,Tesla,Gadgets,4021204,08-20-2025,Auto Loan Account transaction,1008
+C1000085,Trump dream housing,Investments,870484,08-13-2025,Dmat Account transaction,1009
+C1000439,Stock investment,Investments,1230837,06-03-2024,Credit Card,1003
+C1000172,Amazon,Grocery,1273967,10-19-2024,Home Mortgage Account transaction,1007
+C1000198,Trump dream housing,Investments,3667005,06-24-2024,Dmat Account transaction,1009
+C1000171,Investment Contribution,Investments,4832878,01-25-2025,Credit Card,1003
+C1000073,Stock investment,Investments,3476706,06-17-2024,Cash,1006
+C1000051,Wallmart,Electronics,3016368,12-22-2025,Home Mortgage Account transaction,1007
+C1000316,Apple,Gadgets,1625388,05-28-2024,Credit Card,1003
+C1000226,American Airlines,Travel,3114741,10-23-2025,Auto Loan Account transaction,1008
+C1000183,Investment Contribution,Investments,1320123,04-01-2025,Cash,1006
+C1000313,Wallmart,Electronics,4741242,07-10-2025,Dmat Account transaction,1009
+C1000423,Wallmart,Electronics,4207678,08-19-2024,Dmat Account transaction,1009
+C1000039,Amazon,Grocery,886362,07-08-2024,Credit Card,1003
+C1000261,Apple,Gadgets,749800,04-21-2024,Home Mortgage Account transaction,1007
+C1000518,Amazon,Grocery,899680,11-26-2024,Auto Loan Account transaction,1008
+C1000371,Marketing Promotions,Branding And Social Media Adds,3037198,02-24-2025,Credit Card,1003
+C1000045,Marketing Promotions,Branding And Social Media Adds,4006035,03-18-2024,Debit card,1005
+C1000447,Apple,Gadgets,99084,07-11-2024,Debit card,1005
+C1000211,Trump dream housing,Investments,3442618,12-03-2025,Debit card,1005
+C1000427,Stock investment,Investments,2818736,12-19-2024,Credit Card,1005
+C1000450,Tesla,Gadgets,1480383,11-01-2024,Dmat Account transaction,1009
+C1000361,Gucci store,Luxury Shopping,4550808,09-08-2024,Cash,1006
+C1000269,Trump dream housing,Investments,4156106,12-03-2024,Cash,1006
+C1000590,Wallmart,Electronics,784824,05-01-2025,Credit Card,1005
+C1000435,Gucci store,Luxury Shopping,1688673,07-19-2025,Cash,1006
+,,,,,,1006
